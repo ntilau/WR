@@ -25,7 +25,7 @@ BIN = $(ARCH)-$(PLAT)-tetgen
 CXX = g++
 #CXX = icpc
 #CXX = CC
-CXX=$(ARCH)-$(PLAT)-g++
+#CXX=$(ARCH)-$(PLAT)-g++
 
 # CXXFLAGS is the level of optimiztion, default is -O. One should try
 # -O2, -O3 ... to find the best optimization level.
@@ -48,7 +48,7 @@ PREDCXXFLAGS = -O0
 #   down the speed of TetGen.  They can be skipped by define the -DNDEBUG
 #   switch.
 
-SWITCHES = -static
+SWITCHES = #-static
 
 # RM should be set to the name of your favorite rm (file deletion program).
 

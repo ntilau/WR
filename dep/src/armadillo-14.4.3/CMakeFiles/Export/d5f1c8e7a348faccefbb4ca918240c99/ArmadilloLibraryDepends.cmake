@@ -7,7 +7,7 @@ if(CMAKE_VERSION VERSION_LESS "2.8.12")
    message(FATAL_ERROR "CMake >= 2.8.12 required")
 endif()
 cmake_policy(PUSH)
-cmake_policy(VERSION 2.8.12...3.29)
+cmake_policy(VERSION 2.8.12...3.30)
 #----------------------------------------------------------------
 # Generated CMake target import file.
 #----------------------------------------------------------------
@@ -60,7 +60,7 @@ add_library(armadillo STATIC IMPORTED)
 
 set_target_properties(armadillo PROPERTIES
   INTERFACE_INCLUDE_DIRECTORIES "${_IMPORT_PREFIX}/include"
-  INTERFACE_LINK_LIBRARIES "/home/ntilau/Documents/FES/dep/lib/aarch64-linux-gnu/libopenblas.a;/home/ntilau/Documents/FES/dep/lib/aarch64-linux-gnu/libarpack.a;/home/ntilau/Documents/FES/dep/lib/aarch64-linux-gnu/libsuperlu.a"
+  INTERFACE_LINK_LIBRARIES "-framework Accelerate;/opt/homebrew/lib/libarpack.dylib;/opt/homebrew/lib/libsuperlu.dylib"
 )
 
 # Load information for each installed configuration.

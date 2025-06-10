@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ntilau/WR/dep/src/armadillo-14.4.3/cmake_install.cmake",
+		"/Users/ntilau/WR/dep/src/armadillo-14.4.3/tests1/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

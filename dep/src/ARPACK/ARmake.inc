@@ -25,7 +25,7 @@
 # | other than your home directory.      |
 # %--------------------------------------%
 #
-home = $(HOME)/Documents/FES/dep/src/ARPACK
+home = $(HOME)/WR/dep/src/ARPACK
 #home = $(HOME)/ARPACK
 #
 #  %--------------------------------------%
