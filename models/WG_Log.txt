@@ -1,0 +1,1351 @@
+# START: Sat Jun  7 20:15:39 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: ./models/WG_Prj.txt not available ###
+# END: Sat Jun  7 20:15:39 2025
+
+# START: Sat Jun  7 20:39:25 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00152259 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.00995573 s
+Used RAM: 5 MB |3389|
+On boundaries:
+	PerfE1: 0.000777793 s
+	1: 0.00165559 s
+	2: 0.00107992 s
+Used RAM: 6 MB |3389|
+Finishing:
+	SYS DoF = 83,  0.00386997 s
++0.0175897 s
+Used RAM: 6 MB |3389|
+% GMRES solution:
++0.0060276 s
+Used RAM: 6 MB |3389|
+% Saving data:
+	S parameters: 0.000780918 s
++0.000860502 s
+++ 0.0269387 s
+# END: Sat Jun  7 20:39:25 2025
+
+# START: Sat Jun  7 20:39:27 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000539418 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0105765 s
+Used RAM: 5 MB |3389|
+On boundaries:
+	PerfE1: 0.00281072 s
+	1: 0.00130742 s
+	2: 0.00171509 s
+Used RAM: 6 MB |3389|
+Finishing:
+	SYS DoF = 83,  0.00677456 s
++0.0236491 s
+Used RAM: 6 MB |3389|
+% GMRES solution:
++0.00992611 s
+Used RAM: 6 MB |3389|
+% Saving data:
+	S parameters: 5.5458e-05 s
++0.000153251 s
+++ 0.0348412 s
+# END: Sat Jun  7 20:39:27 2025
+
+# START: Sat Jun  7 20:39:37 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000518793 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.121954 s
+Used RAM: 5 MB |3389|
+On boundaries:
+	PerfE1: 0.000740377 s
+	1: 0.0351814 s
+	2: 0.0157734 s
+Used RAM: 7 MB |3389|
+Finishing:
+	SYS DoF = 482,  0.0335334 s
++0.207459 s
+Used RAM: 7 MB |3389|
+% GMRES solution:
++0.0753078 s
+Used RAM: 8 MB |3389|
+% Saving data:
+	S parameters: 0.000518959 s
++0.00322626 s
+++ 0.288649 s
+# END: Sat Jun  7 20:39:38 2025
+
+# START: Sat Jun  7 20:39:44 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000365626 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.112121 s
+Used RAM: 5 MB |3389|
+On boundaries:
+	PerfE1: 0.000638376 s
+	1: 0.0239146 s
+	2: 0.0107933 s
+Used RAM: 7 MB |3389|
+Finishing:
+	SYS DoF = 396,  0.010393 s
++0.162102 s
+Used RAM: 7 MB |3389|
+% GMRES solution:
++0.0848356 s
+Used RAM: 8 MB |3389|
+% Saving data:
+	S parameters: 0.00851352 s
++0.00856023 s
+++ 0.256657 s
+# END: Sat Jun  7 20:39:44 2025
+
+# START: Sat Jun  7 20:39:46 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000901794 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.125607 s
+Used RAM: 5 MB |3389|
+On boundaries:
+	PerfE1: 0.00101442 s
+	1: 0.0212059 s
+	2: 0.010779 s
+Used RAM: 7 MB |3389|
+Finishing:
+	SYS DoF = 396,  0.00906698 s
++0.169397 s
+Used RAM: 7 MB |3389|
+% GMRES solution:
++0.0477722 s
+Used RAM: 8 MB |3389|
+% Saving data:
+	S parameters: 0.00257055 s
++0.00259555 s
+++ 0.221512 s
+# END: Sat Jun  7 20:39:46 2025
+
+# START: Sat Jun  7 20:39:49 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000323543 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.287024 s
+Used RAM: 8 MB |3389|
+On boundaries:
+	PerfE1: 0.000346709 s
+	1: 0.0568557 s
+	2: 0.0313944 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0403791 s
++0.417347 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.287038 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.000286042 s
++0.000330126 s
+++ 0.705856 s
+# END: Sat Jun  7 20:39:50 2025
+
+# START: Sat Jun  7 20:39:53 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000503793 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.313952 s
+Used RAM: 7 MB |3389|
+On boundaries:
+	PerfE1: 0.000448584 s
+	1: 0.0662499 s
+	2: 0.0288598 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0297825 s
++0.441809 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.287544 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.000662668 s
++0.000696001 s
+++ 0.730896 s
+# END: Sat Jun  7 20:39:54 2025
+
+# START: Sat Jun  7 20:40:05 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.0015725 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+09 ---
+% Assembly Symmetric:
+In solids: 0.305122 s
+Used RAM: 7 MB |3389|
+On boundaries:
+	PerfE1: 0.000238667 s
+	1: 0.0587719 s
+	2: 0.0291691 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.032342 s
++0.427923 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.275936 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.000723126 s
++0.000751002 s
+++ 0.70926 s
+# END: Sat Jun  7 20:40:06 2025
+
+# START: Sat Jun  7 20:40:11 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000503334 s
+Used RAM: 4 MB |3389|
+--- Frequency = 3e+10 ---
+% Assembly Symmetric:
+In solids: 0.291448 s
+Used RAM: 7 MB |3389|
+On boundaries:
+	PerfE1: 0.000501709 s
+	1: 0.0658979 s
+	2: 0.0295432 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0290631 s
++0.420882 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.295221 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.000670418 s
++0.000715168 s
+++ 0.718281 s
+# END: Sat Jun  7 20:40:12 2025
+
+# START: Sat Jun  7 20:40:20 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000550709 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.281517 s
+Used RAM: 8 MB |3389|
+On boundaries:
+	PerfE1: 0.000659668 s
+	1: 0.0665562 s
+	2: 0.0290236 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0338931 s
++0.413687 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.716845 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.000638542 s
++0.000683876 s
+++ 1.13256 s
+# END: Sat Jun  7 20:40:21 2025
+
+# START: Sat Jun  7 20:40:27 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000676126 s
+Used RAM: 4 MB |3389|
+--- Frequency = 4e+10 ---
+% Assembly Symmetric:
+In solids: 0.25899 s
+Used RAM: 7 MB |3389|
+On boundaries:
+	PerfE1: 0.000592418 s
+	1: 0.0751287 s
+	2: 0.0286153 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0303369 s
++0.395543 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.386732 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.001444 s
++0.00147021 s
+++ 0.784684 s
+# END: Sat Jun  7 20:40:28 2025
+
+# START: Sat Jun  7 20:40:32 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000625751 s
+Used RAM: 4 MB |3389|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.250374 s
+Used RAM: 7 MB |3389|
+On boundaries:
+	PerfE1: 0.000213875 s
+	1: 0.0609658 s
+	2: 0.0302198 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0308413 s
++0.375733 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.845957 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.000609543 s
++0.000636459 s
+++ 1.22432 s
+# END: Sat Jun  7 20:40:33 2025
+
+# START: Sat Jun  7 20:42:39 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000531667 s
+Used RAM: 4 MB |3389|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.298812 s
+Used RAM: 7 MB |3389|
+On boundaries:
+	PerfE1: 0.000329667 s
+	1: 0.0682276 s
+	2: 0.0287234 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0399992 s
++0.437082 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.75283 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.000357458 s
++0.00113442 s
+++ 1.19269 s
+# END: Sat Jun  7 20:42:40 2025
+
+# START: Sat Jun  7 20:42:44 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000557625 s
+Used RAM: 4 MB |3389|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.263968 s
+Used RAM: 7 MB |3389|
+On boundaries:
+	PerfE1: 0.000284 s
+	1: 0.0567036 s
+	2: 0.0296122 s
+Used RAM: 12 MB |3389|
+Finishing:
+	SYS DoF = 1253,  0.0306111 s
++0.383795 s
+Used RAM: 12 MB |3389|
+% GMRES solution:
++0.831784 s
+Used RAM: 16 MB |3389|
+% Saving data:
+	S parameters: 0.0006035 s
++0.000630542 s
+++ 1.21719 s
+# END: Sat Jun  7 20:42:45 2025
+
+# START: Sat Jun  7 21:14:53 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.0016499 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.127663 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000202385 s
+	1: 0.0230659 s
+	2: 0.0108322 s
+Used RAM: 7 MB |7407|
+Finishing:
+	SYS DoF = 396,  0.008103 s
++0.174143 s
+Used RAM: 7 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00668189 s
++0.00761699 s
+Used RAM: 9 MB |7407|
+% Saving data:
+	S parameters: 0.00260942 s
++0.00301039 s
+++ 0.187179 s
+# END: Sat Jun  7 21:14:53 2025
+
+# START: Sat Jun  7 21:15:03 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000318028 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.10259 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000586895 s
+	1: 0.015845 s
+	2: 0.0107914 s
+Used RAM: 7 MB |7407|
+Finishing:
+	SYS DoF = 396,  0.00813374 s
++0.155464 s
+Used RAM: 7 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0106978 s
++0.0111839 s
+Used RAM: 9 MB |7407|
+% Saving data:
+	S parameters: 0.000246657 s
++0.000538981 s
+++ 0.1702 s
+# END: Sat Jun  7 21:15:04 2025
+
+# START: Sat Jun  7 21:29:23 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00121897 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.125753 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000525134 s
+	1: 0.0532245 s
+	2: 0.0343283 s
+Used RAM: 7 MB |7407|
+Finishing:
+	SYS DoF = 396,  0.0165127 s
++0.234417 s
+Used RAM: 7 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0023631 s
++0.00826728 s
+Used RAM: 9 MB |7407|
+% Saving data:
+	S parameters: 0.0306755 s
++0.0336195 s
+++ 0.278923 s
+# END: Sat Jun  7 21:29:23 2025
+
+# START: Sat Jun  7 21:30:42 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00359752 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.123774 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00133225 s
+	1: 0.0261309 s
+	2: 0.0198054 s
+Used RAM: 7 MB |7407|
+Finishing:
+	SYS DoF = 396,  0.0157961 s
++0.191981 s
+Used RAM: 7 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00508195 s
++0.00572482 s
+Used RAM: 9 MB |7407|
+% Saving data:
+	S parameters: 0.000471863 s
++0.000542576 s
+++ 0.202634 s
+# END: Sat Jun  7 21:30:42 2025
+
+# START: Sat Jun  7 22:04:07 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000467837 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.00845336 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00121213 s
+	1: 0.00128705 s
+	2: 0.000906924 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 83,  0.00550292 s
++0.0223302 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000448295 s
++0.00736247 s
+Used RAM: 7 MB |7407|
+% Saving data:
+	S parameters: 0.000847924 s
++0.00319057 s
+++ 0.0350162 s
+# END: Sat Jun  7 22:04:07 2025
+
+# START: Sat Jun  7 22:04:13 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000331169 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0135098 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00334015 s
+	1: 0.0116665 s
+	2: 0.00294494 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 83,  0.00426637 s
++0.0358332 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000396336 s
++0.00590159 s
+Used RAM: 7 MB |7407|
+% Saving data:
+	S parameters: 0.00132705 s
++0.00347944 s
+++ 0.0493963 s
+# END: Sat Jun  7 22:04:13 2025
+
+# START: Sat Jun  7 22:04:17 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000511003 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+11 ---
+% Assembly Symmetric:
+In solids: 0.0115103 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00135501 s
+	1: 0.011631 s
+	2: 0.0119053 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 83,  0.00316311 s
++0.0397704 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000405461 s
++0.00469353 s
+Used RAM: 8 MB |7407|
+% Saving data:
+	S parameters: 0.000270251 s
++0.00225293 s
+++ 0.0500637 s
+# END: Sat Jun  7 22:04:17 2025
+
+# START: Sat Jun  7 22:04:21 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000563629 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0133338 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00131351 s
+	1: 0.00150639 s
+	2: 0.00308131 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 83,  0.00295944 s
++0.0222911 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000446211 s
++0.00455232 s
+Used RAM: 7 MB |7407|
+% Saving data:
+	S parameters: 9.5251e-05 s
++0.00134701 s
+++ 0.0289422 s
+# END: Sat Jun  7 22:04:21 2025
+
+# START: Sat Jun  7 22:04:26 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000508421 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.00647442 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000778839 s
+	1: 0.00124043 s
+	2: 0.000911964 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 62,  0.00289106 s
++0.0142684 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000340419 s
++0.000726047 s
+Used RAM: 7 MB |7407|
+% Saving data:
+	S parameters: 0.00029996 s
++0.00268685 s
+++ 0.0195048 s
+# END: Sat Jun  7 22:04:26 2025
+
+# START: Sat Jun  7 22:04:48 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000749171 s
+Used RAM: 4 MB |7407|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.00770688 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00299402 s
+	1: 0.0124262 s
+	2: 0.0118496 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 62,  0.00628595 s
++0.0440655 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000387044 s
++0.000608628 s
+Used RAM: 7 MB |7407|
+% Saving data:
+	S parameters: 0.000538336 s
++0.00436386 s
+++ 0.050571 s
+# END: Sat Jun  7 22:04:48 2025
+
+# START: Sat Jun  7 22:04:51 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000362585 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+09 ---
+% Assembly Symmetric:
+In solids: 0.00657858 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000672587 s
+	1: 0.0012108 s
+	2: 0.00106709 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 62,  0.00318644 s
++0.0145852 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000394586 s
++0.000812171 s
+Used RAM: 8 MB |7407|
+% Saving data:
+	S parameters: 9.4167e-05 s
++0.00334564 s
+++ 0.0196198 s
+# END: Sat Jun  7 22:04:51 2025
+
+# START: Sat Jun  7 22:04:57 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000602629 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0108534 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00184793 s
+	1: 0.0117909 s
+	2: 0.0118617 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 62,  0.00291297 s
++0.0429137 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000334418 s
++0.00054517 s
+Used RAM: 8 MB |7407|
+% Saving data:
+	S parameters: 0.00328198 s
++0.00390544 s
+++ 0.0481773 s
+# END: Sat Jun  7 22:04:57 2025
+
+# START: Sat Jun  7 22:05:04 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000558878 s
+Used RAM: 4 MB |7407|
+--- Frequency = 2e+10 ---
+% Assembly Symmetric:
+In solids: 0.0103958 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00112663 s
+	1: 0.00127951 s
+	2: 0.000911922 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 62,  0.00333231 s
++0.0198565 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000330835 s
++0.000771254 s
+Used RAM: 7 MB |7407|
+% Saving data:
+	S parameters: 0.000331043 s
++0.00170538 s
+++ 0.0245313 s
+# END: Sat Jun  7 22:05:04 2025
+
+# START: Sat Jun  7 22:05:07 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000439085 s
+Used RAM: 4 MB |7407|
+--- Frequency = 2e+11 ---
+% Assembly Symmetric:
+In solids: 0.00841546 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00112042 s
+	1: 0.00170992 s
+	2: 0.00111863 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 62,  0.00309622 s
++0.0168668 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000382752 s
++0.000591211 s
+Used RAM: 8 MB |7407|
+% Saving data:
+	S parameters: 0.000295585 s
++0.000915213 s
+++ 0.0189291 s
+# END: Sat Jun  7 22:05:07 2025
+
+# START: Sat Jun  7 22:05:10 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000521503 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.00497827 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00157555 s
+	1: 0.0012313 s
+	2: 0.00468815 s
+Used RAM: 6 MB |7407|
+Finishing:
+	SYS DoF = 62,  0.00251222 s
++0.0167148 s
+Used RAM: 6 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 0 MB
+	Factor and Solve: 0.000350043 s
++0.000593337 s
+Used RAM: 7 MB |7407|
+% Saving data:
+	S parameters: 0.000350169 s
++0.00183372 s
+++ 0.0205934 s
+# END: Sat Jun  7 22:05:10 2025
+
+# START: Sat Jun  7 22:05:18 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000470252 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.124473 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000365793 s
+	1: 0.0516426 s
+	2: 0.0150009 s
+Used RAM: 7 MB |7407|
+Finishing:
+	SYS DoF = 396,  0.0122184 s
++0.20793 s
+Used RAM: 7 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00185834 s
++0.00231222 s
+Used RAM: 9 MB |7407|
+% Saving data:
+	S parameters: 0.000394627 s
++0.00188447 s
+++ 0.212881 s
+# END: Sat Jun  7 22:05:18 2025
+
+# START: Sat Jun  7 22:05:21 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00185622 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.34514 s
+Used RAM: 7 MB |7407|
+On boundaries:
+	PerfE1: 0.000590795 s
+	1: 0.0542117 s
+	2: 0.0361612 s
+Used RAM: 12 MB |7407|
+Finishing:
+	SYS DoF = 1253,  0.0516624 s
++0.49042 s
+Used RAM: 12 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 3 MB
+	Factor and Solve: 0.00878571 s
++0.0132305 s
+Used RAM: 16 MB |7407|
+% Saving data:
+	S parameters: 0.000686711 s
++0.00525802 s
+++ 0.512811 s
+# END: Sat Jun  7 22:05:21 2025
+
+# START: Sat Jun  7 22:05:29 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 3, h = 1
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00247834 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.268602 s
+Used RAM: 8 MB |7407|
+On boundaries:
+	PerfE1: 0.000581794 s
+	1: 0.0594343 s
+	2: 0.0270648 s
+Used RAM: 12 MB |7407|
+Finishing:
+	SYS DoF = 1253,  0.0319928 s
++0.389377 s
+Used RAM: 12 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 3 MB
+	Factor and Solve: 0.0158961 s
++0.0177161 s
+Used RAM: 16 MB |7407|
+% Saving data:
+	S parameters: 0.000324002 s
++0.00330351 s
+++ 0.414507 s
+# END: Sat Jun  7 22:05:29 2025
+
+# START: Sat Jun  7 22:05:32 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 3, h = 2
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.000976087 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.28402 s
+Used RAM: 7 MB |7407|
+On boundaries:
+	PerfE1: 0.000518461 s
+	1: 0.0399374 s
+	2: 0.0470918 s
+Used RAM: 12 MB |7407|
+Finishing:
+	SYS DoF = 1253,  0.0336703 s
++0.408262 s
+Used RAM: 12 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 3 MB
+	Factor and Solve: 0.0145671 s
++0.0177867 s
+Used RAM: 16 MB |7407|
+% Saving data:
+	S parameters: 0.000792044 s
++0.0082407 s
+++ 0.43893 s
+# END: Sat Jun  7 22:05:32 2025
+
+# START: Sat Jun  7 22:05:34 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 3, h = 3
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00140663 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.310356 s
+Used RAM: 7 MB |7407|
+On boundaries:
+	PerfE1: 0.000365627 s
+	1: 0.0662852 s
+	2: 0.0264801 s
+Used RAM: 12 MB |7407|
+Finishing:
+	SYS DoF = 1253,  0.0327022 s
++0.438154 s
+Used RAM: 12 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 3 MB
+	Factor and Solve: 0.0139381 s
++0.0166955 s
+Used RAM: 16 MB |7407|
+% Saving data:
+	S parameters: 0.000327751 s
++0.00477298 s
+++ 0.464512 s
+# END: Sat Jun  7 22:05:35 2025
+
+# START: Sat Jun  7 22:05:45 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 3, h = 4
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00206034 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.298121 s
+Used RAM: 7 MB |7407|
+On boundaries:
+	PerfE1: 0.000646252 s
+	1: 0.0900099 s
+	2: 0.0262506 s
+Used RAM: 12 MB |7407|
+Finishing:
+	SYS DoF = 1253,  0.0326348 s
++0.449999 s
+Used RAM: 12 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 3 MB
+	Factor and Solve: 0.021898 s
++0.0238451 s
+Used RAM: 16 MB |7407|
+% Saving data:
+	S parameters: 0.00290755 s
++0.00390722 s
+++ 0.480703 s
+# END: Sat Jun  7 22:05:46 2025
+
+# START: Sat Jun  7 22:05:48 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 3, h = 5
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00163984 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.386806 s
+Used RAM: 7 MB |7407|
+On boundaries:
+	PerfE1: 0.000205001 s
+	1: 0.0960948 s
+	2: 0.0272033 s
+Used RAM: 12 MB |7407|
+Finishing:
+	SYS DoF = 1253,  0.0323027 s
++0.544858 s
+Used RAM: 12 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 3 MB
+	Factor and Solve: 0.016125 s
++0.0180748 s
+Used RAM: 16 MB |7407|
+% Saving data:
+	S parameters: 0.000608419 s
++0.00315443 s
+++ 0.57109 s
+# END: Sat Jun  7 22:05:48 2025
+
+# START: Sat Jun  7 22:05:57 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WG
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 36
+Edges  = 147
+Faces  = 195
+Tetras = 83
+++0.00508172 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.331152 s
+Used RAM: 7 MB |7407|
+On boundaries:
+	PerfE1: 0.000238167 s
+	1: 0.0740893 s
+	2: 0.0264141 s
+Used RAM: 12 MB |7407|
+Finishing:
+	SYS DoF = 1253,  0.0328124 s
++0.466411 s
+Used RAM: 12 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 3 MB
+	Factor and Solve: 0.0132161 s
++0.0201716 s
+Used RAM: 16 MB |7407|
+% Saving data:
+	S parameters: 0.000334168 s
++0.00363718 s
+++ 0.497194 s
+# END: Sat Jun  7 22:05:58 2025
+

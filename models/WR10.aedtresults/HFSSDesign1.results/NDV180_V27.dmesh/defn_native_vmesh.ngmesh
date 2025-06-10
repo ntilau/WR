@@ -1,0 +1,284 @@
+unencryptedASC 
+begin_mesh_data 
+fileformat= ng01 Major= 3 Minor= 0 Point= 2 
+comment No Comment 
+mesh_name defn_Setup1 
+Stitching_status -2 
+Meshing_status -1 
+PullPtsToTrueSurfFlag 0 
+user_unit_name mm 
+user_units_per_one_meter  1.00000000000000e+03 
+distance_tol  5.00000000000000e-12 
+non_dim_tol  1.00000000000000e-10 
+bbox_xmin -2.75000000000000e-03 
+bbox_ymin -1.39700000000000e-03 
+bbox_zmin -1.27000000000000e-03 
+bbox_xmax  2.75000000000000e-03 
+bbox_ymax  1.39700000000000e-03 
+bbox_zmax  1.27000000000000e-03 
+nbodies 2 
+nfacets 12 
+npoints 24 
+n_surf_elems 40 
+n_vol_elems 66 
+MeshSizeQualityBalance -1 
+begin_body_data 
+body_id 6 body_name Box1 num_shells 0 sheet_body_flag 0 nfaces_on_body 6 nvelems_on_body 6 MeshSizeQualityBalance -1 
+face_ids  7  8  9  10  11  12 
+bbox_xmin -2.50000000000000e-03 
+bbox_ymin -1.27000000000000e-03 
+bbox_zmin -6.35000000000000e-04 
+bbox_xmax  2.50000000000000e-03 
+bbox_ymax  1.27000000000000e-03 
+bbox_zmax  6.35000000000000e-04 
+body_id 0 body_name background num_shells 0 sheet_body_flag 0 nfaces_on_body 6 nvelems_on_body 60 MeshSizeQualityBalance -1 
+face_ids  2146483648  2146483649  2146483650  2146483651  2146483652  2146483653 
+bbox_xmin -2.75000000000000e-03 
+bbox_ymin -1.39700000000000e-03 
+bbox_zmin -1.27000000000000e-03 
+bbox_xmax  2.75000000000000e-03 
+bbox_ymax  1.39700000000000e-03 
+bbox_zmax  1.27000000000000e-03 
+end_body_data 
+begin_point_data 
+pid 1 coords -2.50000000000000e-03 -1.27000000000000e-03 -6.35000000000000e-04 
+pid 2 coords  2.50000000000000e-03  1.27000000000000e-03 -6.35000000000000e-04 
+pid 3 coords  2.50000000000000e-03 -1.27000000000000e-03 -6.35000000000000e-04 
+pid 4 coords -2.50000000000000e-03  1.27000000000000e-03 -6.35000000000000e-04 
+pid 5 coords  2.50000000000000e-03  1.27000000000000e-03  6.35000000000000e-04 
+pid 6 coords  2.50000000000000e-03 -1.27000000000000e-03  6.35000000000000e-04 
+pid 7 coords -2.50000000000000e-03 -1.27000000000000e-03  6.35000000000000e-04 
+pid 8 coords -2.50000000000000e-03  1.27000000000000e-03  6.35000000000000e-04 
+pid 9 coords -2.75000000000000e-03 -1.39700000000000e-03  6.35000000000000e-04 
+pid 10 coords  2.75000000000000e-03 -1.39700000000000e-03  6.35000000000000e-04 
+pid 11 coords  2.75000000000000e-03 -1.39700000000000e-03 -6.35000000000000e-04 
+pid 12 coords -2.75000000000000e-03 -1.39700000000000e-03 -6.35000000000000e-04 
+pid 13 coords  2.75000000000000e-03  1.39700000000000e-03  6.35000000000000e-04 
+pid 14 coords  2.75000000000000e-03  1.39700000000000e-03 -6.35000000000000e-04 
+pid 15 coords -2.75000000000000e-03  1.39700000000000e-03  6.35000000000000e-04 
+pid 16 coords -2.75000000000000e-03  1.39700000000000e-03 -6.35000000000000e-04 
+pid 17 coords -2.75000000000000e-03 -1.39700000000000e-03 -1.27000000000000e-03 
+pid 18 coords  2.75000000000000e-03 -1.39700000000000e-03 -1.27000000000000e-03 
+pid 19 coords -2.75000000000000e-03  1.39700000000000e-03 -1.27000000000000e-03 
+pid 20 coords  2.75000000000000e-03  1.39700000000000e-03 -1.27000000000000e-03 
+pid 21 coords -2.75000000000000e-03 -1.39700000000000e-03  1.27000000000000e-03 
+pid 22 coords -2.75000000000000e-03  1.39700000000000e-03  1.27000000000000e-03 
+pid 23 coords  2.75000000000000e-03  1.39700000000000e-03  1.27000000000000e-03 
+pid 24 coords  2.75000000000000e-03 -1.39700000000000e-03  1.27000000000000e-03 
+end_point_data 
+begin_facet_data 
+facet_id 100 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  2146483648 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 1 facet_id 100 nv 3 vert_ids 24 23 21 
+seid 2 facet_id 100 nv 3 vert_ids 21 23 22 
+facet_id 101 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  2146483649 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 3 facet_id 101 nv 3 vert_ids 17 20 18 
+seid 4 facet_id 101 nv 3 vert_ids 20 17 19 
+facet_id 102 Planar_flag 1 n_surf_elems 6 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  2146483650 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 5 facet_id 102 nv 3 vert_ids 11 9 12 
+seid 6 facet_id 102 nv 3 vert_ids 9 11 10 
+seid 7 facet_id 102 nv 3 vert_ids 11 17 18 
+seid 8 facet_id 102 nv 3 vert_ids 17 11 12 
+seid 9 facet_id 102 nv 3 vert_ids 9 24 21 
+seid 10 facet_id 102 nv 3 vert_ids 24 9 10 
+facet_id 103 Planar_flag 1 n_surf_elems 6 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  2146483651 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 11 facet_id 103 nv 3 vert_ids 16 12 9 
+seid 12 facet_id 103 nv 3 vert_ids 9 15 16 
+seid 13 facet_id 103 nv 3 vert_ids 12 19 17 
+seid 14 facet_id 103 nv 3 vert_ids 19 12 16 
+seid 15 facet_id 103 nv 3 vert_ids 22 9 21 
+seid 16 facet_id 103 nv 3 vert_ids 9 22 15 
+facet_id 104 Planar_flag 1 n_surf_elems 6 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  2146483652 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 17 facet_id 104 nv 3 vert_ids 16 13 14 
+seid 18 facet_id 104 nv 3 vert_ids 13 16 15 
+seid 19 facet_id 104 nv 3 vert_ids 19 14 20 
+seid 20 facet_id 104 nv 3 vert_ids 14 19 16 
+seid 21 facet_id 104 nv 3 vert_ids 13 22 23 
+seid 22 facet_id 104 nv 3 vert_ids 22 13 15 
+facet_id 105 Planar_flag 1 n_surf_elems 6 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  2146483653 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 23 facet_id 105 nv 3 vert_ids 11 14 13 
+seid 24 facet_id 105 nv 3 vert_ids 13 10 11 
+seid 25 facet_id 105 nv 3 vert_ids 20 11 18 
+seid 26 facet_id 105 nv 3 vert_ids 11 20 14 
+seid 27 facet_id 105 nv 3 vert_ids 10 23 24 
+seid 28 facet_id 105 nv 3 vert_ids 23 10 13 
+facet_id 110 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  8 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 29 facet_id 110 nv 3 vert_ids 1 2 3 
+seid 30 facet_id 110 nv 3 vert_ids 2 1 4 
+facet_id 111 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  7 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 31 facet_id 111 nv 3 vert_ids 6 5 7 
+seid 32 facet_id 111 nv 3 vert_ids 7 5 8 
+facet_id 112 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  9 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 33 facet_id 112 nv 3 vert_ids 7 1 3 
+seid 34 facet_id 112 nv 3 vert_ids 3 6 7 
+facet_id 113 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  10 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 35 facet_id 113 nv 3 vert_ids 4 1 7 
+seid 36 facet_id 113 nv 3 vert_ids 7 8 4 
+facet_id 114 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  12 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 37 facet_id 114 nv 3 vert_ids 6 3 2 
+seid 38 facet_id 114 nv 3 vert_ids 6 2 5 
+facet_id 115 Planar_flag 1 n_surf_elems 2 nfaces_on_facet 1 ref_area_of_facet -1.00000000000000e+00 MeshSizeQualityBalance -1 FacetImportanceLevel -1 face_ids  11 
+bbox_xmin  1.00000000000000e-02 
+bbox_ymin  1.00000000000000e-02 
+bbox_zmin  1.00000000000000e-02 
+bbox_xmax -1.00000000000000e-02 
+bbox_ymax -1.00000000000000e-02 
+bbox_zmax -1.00000000000000e-02 
+seid 39 facet_id 115 nv 3 vert_ids 4 8 2 
+seid 40 facet_id 115 nv 3 vert_ids 5 2 8 
+end_facet_data 
+begin_vol_element_data 
+veid 1 body_id 6 nv 4 vert_ids 5 7 6 2 locked 0
+veid 2 body_id 6 nv 4 vert_ids 5 8 7 2 locked 0
+veid 3 body_id 6 nv 4 vert_ids 3 7 1 2 locked 0
+veid 4 body_id 6 nv 4 vert_ids 7 3 6 2 locked 0
+veid 5 body_id 6 nv 4 vert_ids 4 1 7 2 locked 0
+veid 6 body_id 6 nv 4 vert_ids 7 8 4 2 locked 0
+veid 7 body_id 0 nv 4 vert_ids 11 9 12 3 locked 0
+veid 8 body_id 0 nv 4 vert_ids 9 11 10 3 locked 0
+veid 9 body_id 0 nv 4 vert_ids 12 7 1 3 locked 0
+veid 10 body_id 0 nv 4 vert_ids 7 12 9 3 locked 0
+veid 11 body_id 0 nv 4 vert_ids 3 11 10 2 locked 0
+veid 12 body_id 0 nv 4 vert_ids 10 6 3 2 locked 0
+veid 13 body_id 0 nv 4 vert_ids 11 14 13 2 locked 0
+veid 14 body_id 0 nv 4 vert_ids 13 10 11 2 locked 0
+veid 15 body_id 0 nv 4 vert_ids 4 15 16 2 locked 0
+veid 16 body_id 0 nv 4 vert_ids 15 4 8 2 locked 0
+veid 17 body_id 0 nv 4 vert_ids 16 13 14 2 locked 0
+veid 18 body_id 0 nv 4 vert_ids 13 16 15 2 locked 0
+veid 19 body_id 0 nv 4 vert_ids 9 7 15 4 locked 0
+veid 20 body_id 0 nv 4 vert_ids 7 8 15 4 locked 0
+veid 21 body_id 0 nv 4 vert_ids 16 12 9 4 locked 0
+veid 22 body_id 0 nv 4 vert_ids 9 15 16 4 locked 0
+veid 23 body_id 0 nv 4 vert_ids 12 1 7 4 locked 0
+veid 24 body_id 0 nv 4 vert_ids 7 9 12 4 locked 0
+veid 25 body_id 0 nv 4 vert_ids 7 3 10 6 locked 0
+veid 26 body_id 0 nv 4 vert_ids 7 10 3 9 locked 0
+veid 27 body_id 0 nv 4 vert_ids 12 3 1 17 locked 0
+veid 28 body_id 0 nv 4 vert_ids 17 3 11 12 locked 0
+veid 29 body_id 0 nv 4 vert_ids 17 18 11 3 locked 0
+veid 30 body_id 0 nv 4 vert_ids 2 11 14 20 locked 0
+veid 31 body_id 0 nv 4 vert_ids 14 20 19 2 locked 0
+veid 32 body_id 0 nv 4 vert_ids 14 19 16 2 locked 0
+veid 33 body_id 0 nv 4 vert_ids 2 16 4 19 locked 0
+veid 34 body_id 0 nv 4 vert_ids 22 5 15 8 locked 0
+veid 35 body_id 0 nv 4 vert_ids 22 15 5 13 locked 0
+veid 36 body_id 0 nv 4 vert_ids 15 5 2 8 locked 0
+veid 37 body_id 0 nv 4 vert_ids 15 2 5 13 locked 0
+veid 38 body_id 0 nv 4 vert_ids 23 13 22 5 locked 0
+veid 39 body_id 0 nv 4 vert_ids 7 24 9 21 locked 0
+veid 40 body_id 0 nv 4 vert_ids 3 11 20 18 locked 0
+veid 41 body_id 0 nv 4 vert_ids 3 20 11 2 locked 0
+veid 42 body_id 0 nv 4 vert_ids 19 1 17 12 locked 0
+veid 43 body_id 0 nv 4 vert_ids 6 24 10 7 locked 0
+veid 44 body_id 0 nv 4 vert_ids 9 10 24 7 locked 0
+veid 45 body_id 0 nv 4 vert_ids 8 15 22 7 locked 0
+veid 46 body_id 0 nv 4 vert_ids 15 7 9 22 locked 0
+veid 47 body_id 0 nv 4 vert_ids 21 7 22 9 locked 0
+veid 48 body_id 0 nv 4 vert_ids 13 6 2 5 locked 0
+veid 49 body_id 0 nv 4 vert_ids 13 2 6 10 locked 0
+veid 50 body_id 0 nv 4 vert_ids 6 10 24 23 locked 0
+veid 51 body_id 0 nv 4 vert_ids 13 23 6 5 locked 0
+veid 52 body_id 0 nv 4 vert_ids 13 6 23 10 locked 0
+veid 53 body_id 0 nv 4 vert_ids 17 20 18 3 locked 0
+veid 54 body_id 0 nv 4 vert_ids 3 2 17 20 locked 0
+veid 55 body_id 0 nv 4 vert_ids 3 17 2 1 locked 0
+veid 56 body_id 0 nv 4 vert_ids 20 17 19 2 locked 0
+veid 57 body_id 0 nv 4 vert_ids 19 17 1 2 locked 0
+veid 58 body_id 0 nv 4 vert_ids 12 16 19 4 locked 0
+veid 59 body_id 0 nv 4 vert_ids 19 4 1 12 locked 0
+veid 60 body_id 0 nv 4 vert_ids 19 1 4 2 locked 0
+veid 61 body_id 0 nv 4 vert_ids 23 21 24 7 locked 0
+veid 62 body_id 0 nv 4 vert_ids 23 7 6 5 locked 0
+veid 63 body_id 0 nv 4 vert_ids 23 6 7 24 locked 0
+veid 64 body_id 0 nv 4 vert_ids 22 7 5 8 locked 0
+veid 65 body_id 0 nv 4 vert_ids 23 22 21 7 locked 0
+veid 66 body_id 0 nv 4 vert_ids 23 22 7 5 locked 0
+begin_eff_vol_ratio 
+end_eff_vol_ratio 
+end_vol_element_data 
+BeginBodyPairCommonArea 
+NBodyPairsInContact 0 
+EndBodyPairCommonArea 
+BeginTrueMidPts 
+NumCurvedPts 0 
+NumIncompletePull 0 
+EndTrueMidPts 
+begin_point_pair_map 
+n_matched_tri 0 
+end_point_pair_map 
+BeginExplicityPreservedEdges 
+ExpPresEdgeEndIds 0 
+EndExplicityPreservedEdges 
+BeginCurvilinearEnabledFacets 
+NumCurvilinearEnabledFacets 0 
+CurvilinearEnabledFacets   
+EndCurvilinearEnabledFacets 
+Num_meshedge2modeledges 0
+End_meshedge2modeledges
+end_mesh_data 

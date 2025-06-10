@@ -1,0 +1,45 @@
+Double Complex-precision testing output
+
+** LAPACK test matrices
+
+n=10 nrhs=2 lwork=0 nprocs=1
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+n=10 nrhs=2 lwork=0 nprocs=4
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+n=10 nrhs=2 lwork=100000000 nprocs=1
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+n=10 nrhs=2 lwork=100000000 nprocs=4
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+n=19 nrhs=2 lwork=0 nprocs=1
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+n=19 nrhs=2 lwork=0 nprocs=4
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+n=19 nrhs=2 lwork=100000000 nprocs=1
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+n=19 nrhs=2 lwork=100000000 nprocs=4
+All tests for ZGE driver passed the threshold (     995 tests run)
+
+** sparse matrix: cg20.cua
+
+w=2 relax=2 nrhs=2 lwork=0 nprocs=1
+Title: complex g20, symm. permuted by SYMMMD                                   Key: sym     
+All tests for ZGE driver passed the threshold (     124 tests run)
+
+w=2 relax=2 nrhs=2 lwork=0 nprocs=4
+Title: complex g20, symm. permuted by SYMMMD                                   Key: sym     
+All tests for ZGE driver passed the threshold (     124 tests run)
+
+w=2 relax=2 nrhs=2 lwork=100000000 nprocs=1
+Title: complex g20, symm. permuted by SYMMMD                                   Key: sym     
+All tests for ZGE driver passed the threshold (     124 tests run)
+
+w=2 relax=2 nrhs=2 lwork=100000000 nprocs=4
+Title: complex g20, symm. permuted by SYMMMD                                   Key: sym     
+All tests for ZGE driver passed the threshold (     124 tests run)

@@ -1,0 +1,10 @@
+# START: Sat Jun  7 22:04:03 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: models/WR_Prj.txt not available ###
+# END: Sat Jun  7 22:04:03 2025
+

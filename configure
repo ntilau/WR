@@ -1,0 +1,16 @@
+#!/bin/bash
+os=$(uname)
+echo $os
+if [ "$os" == "Arch" ]; then
+  echo "Arch Linux detected"
+elif [ "$os" == "Darwin" ]; then
+  echo "Mac OS X detected"
+  brew install gcc
+elif [ "$os" == "Linux" ]; then
+  echo "Linux detected"
+  sudo apt install -y make libc6-dev gcc g++ gfortran gcc-mingw-w64-x86-64 g++-mingw-w64-x86-64 gfortran-mingw-w64-x86-64
+else
+  echo "Unknown OS detected"
+fi
+
+

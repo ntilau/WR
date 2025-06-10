@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -Wl,--dependency-file=CMakeFiles/smoke_test.dir/link.d CMakeFiles/smoke_test.dir/smoke_test.cpp.o -o smoke_test  ../libarmadillo.a /home/ntilau/Documents/FES/dep/lib/aarch64-linux-gnu/libopenblas.a /home/ntilau/Documents/FES/dep/lib/aarch64-linux-gnu/libarpack.a /home/ntilau/Documents/FES/dep/lib/aarch64-linux-gnu/libsuperlu.a

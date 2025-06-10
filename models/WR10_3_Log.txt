@@ -1,0 +1,8097 @@
+# START: Sun Aug  6 13:16:56 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+### ERROR: WR10 project "current.pnt" not available ###
+# END: Sun Aug  6 13:16:56 2023
+
+# START: Sun Aug  6 13:22:55 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: WR10_Prj.txt not available ###
+# END: Sun Aug  6 13:22:55 2023
+
+# START: Sun Aug  6 13:24:52 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: WR10_Prj.txt not available ###
+# END: Sun Aug  6 13:24:52 2023
+
+# START: Sun Aug  6 13:26:33 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: WR10_Prj.txt not available ###
+# END: Sun Aug  6 13:26:33 2023
+
+# START: Sun Aug  6 13:27:31 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: WR10_Prj.txt not available ###
+# END: Sun Aug  6 13:27:31 2023
+
+# START: Sun Aug  6 13:40:07 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0242569 s
+Used RAM: 11 MB |7697|--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.422688 s
+Used RAM: 17 MB |7697|On boundaries:
+	1: 0.681215 s
+	2: 0.72819 s
+Used RAM: 105 MB |7697|Finishing:
+	SYS DoF = 9010,  0.0892686 s
++1.92212 s
+Used RAM: 105 MB |7697|% Saving system matrices:
++0 s
+++ 2.3519 s
+# END: Sun Aug  6 13:40:09 2023
+
+# START: Sun Aug  6 14:05:50 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0242955 s
+Used RAM: 10 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.413388 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.691232 s
+	2: 0.757733 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 9010,  0.0890326 s
++1.9521 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++8.69511 s
+Used RAM: 202 MB |7697|
+% Saving data:
+	S parameters: 0.000154539 s
++0.000207583 s
+++ 10.6855 s
+# END: Sun Aug  6 14:06:00 2023
+
+# START: Sun Aug  6 14:08:11 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0184049 s
+Used RAM: 10 MB |7697|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.440504 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.674409 s
+	2: 0.735284 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 9010,  0.103181 s
++1.95405 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++4.5738 s
+Used RAM: 202 MB |7697|
+% Saving data:
+	S parameters: 7.9088e-05 s
++0.000138922 s
+++ 6.54752 s
+# END: Sun Aug  6 14:08:17 2023
+
+# START: Sun Aug  6 14:08:30 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0178446 s
+Used RAM: 10 MB |7697|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.416835 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.681615 s
+	2: 0.731168 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 9010,  0.142562 s
++1.97292 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++6.44701 s
+Used RAM: 203 MB |7697|
+% Saving data:
+	S parameters: 7.8961e-05 s
++0.000161769 s
+++ 8.439 s
+# END: Sun Aug  6 14:08:38 2023
+
+# START: Sun Aug  6 14:08:46 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0194795 s
+Used RAM: 10 MB |7697|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.417171 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.678807 s
+	2: 0.733462 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 9010,  0.104902 s
++1.9352 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++9.94937 s
+Used RAM: 202 MB |7697|
+% Saving data:
+	S parameters: 7.9004e-05 s
++0.000161121 s
+++ 11.9121 s
+# END: Sun Aug  6 14:08:58 2023
+
+# START: Sun Aug  6 14:09:03 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0244241 s
+Used RAM: 10 MB |7697|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.413547 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.683553 s
+	2: 0.737367 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.10894 s
++1.97305 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++2.68788 s
+Used RAM: 178 MB |7697|
+% Saving data:
+	S parameters: 9.6364e-05 s
++0.000164036 s
+++ 4.68655 s
+# END: Sun Aug  6 14:09:07 2023
+
+# START: Sun Aug  6 14:09:23 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0268592 s
+Used RAM: 10 MB |7697|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.430675 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.682756 s
+	2: 0.730239 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.0284739 s
++1.87327 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++6.3542 s
+Used RAM: 179 MB |7697|
+% Saving data:
+	S parameters: 9.7553e-05 s
++0.000126506 s
+++ 8.25556 s
+# END: Sun Aug  6 14:09:31 2023
+
+# START: Sun Aug  6 14:09:43 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0237876 s
+Used RAM: 10 MB |7697|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.438479 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.676877 s
+	2: 0.736744 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.131698 s
++2.01923 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++10.741 s
+Used RAM: 178 MB |7697|
+% Saving data:
+	S parameters: 7.9188e-05 s
++0.000109629 s
+++ 12.7852 s
+# END: Sun Aug  6 14:09:56 2023
+
+# START: Sun Aug  6 14:10:19 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0187154 s
+Used RAM: 10 MB |7697|
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.429164 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.68005 s
+	2: 0.740337 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.0285619 s
++1.87888 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++10.9069 s
+Used RAM: 179 MB |7697|
+% Saving data:
+	S parameters: 0.000109985 s
++0.000176521 s
+++ 12.805 s
+# END: Sun Aug  6 14:10:31 2023
+
+# START: Sun Aug  6 14:11:05 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0297035 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.405581 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.656856 s
+	2: 0.728303 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.0269318 s
++1.81853 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++4.3288 s
+Used RAM: 178 MB |7697|
+% Saving data:
+	S parameters: 6.9193e-05 s
++0.000123359 s
+++ 6.17825 s
+# END: Sun Aug  6 14:11:11 2023
+
+# START: Sun Aug  6 14:11:18 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0248439 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.413712 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.665291 s
+	2: 0.735935 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.0662968 s
++1.91761 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++5.97613 s
+Used RAM: 178 MB |7697|
+% Saving data:
+	S parameters: 9.5787e-05 s
++0.000155314 s
+++ 7.91988 s
+# END: Sun Aug  6 14:11:26 2023
+
+# START: Sun Aug  6 14:29:56 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0272171 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.414511 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.66688 s
+	2: 0.737963 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.124981 s
++1.98035 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++5.88587 s
+Used RAM: 178 MB |7697|
+% Saving data:
+	S parameters: 7.9785e-05 s
++0.000134962 s
+++ 7.89396 s
+# END: Sun Aug  6 14:30:04 2023
+
+# START: Sun Aug  6 14:30:10 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0185865 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 1.11843 s
+Used RAM: 44 MB |7697|
+On boundaries:
+	1: 3.84319 s
+	2: 3.69559 s
+Used RAM: 421 MB |7697|
+Finishing:
+	SYS DoF = 22628,  0.180808 s
++8.86252 s
+Used RAM: 421 MB |7697|
+% GMRES solution:
++34.9174 s
+Used RAM: 521 MB |7697|
+% Saving data:
+	S parameters: 7.5839e-05 s
++0.000120023 s
+++ 43.7997 s
+# END: Sun Aug  6 14:30:54 2023
+
+# START: Sun Aug  6 14:32:05 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0245888 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0827638 s
+Used RAM: 11 MB |7697|
+On boundaries:
+	1: 0.064507 s
+	2: 0.0435957 s
+Used RAM: 28 MB |7697|
+Finishing:
+	SYS DoF = 1433,  0.0460702 s
++0.261038 s
+Used RAM: 28 MB |7697|
+% GMRES solution:
++0.636242 s
+Used RAM: 59 MB |7697|
+% Saving data:
+	S parameters: 4.6204e-05 s
++8.7587e-05 s
+++ 0.923153 s
+# END: Sun Aug  6 14:32:06 2023
+
+# START: Sun Aug  6 14:32:15 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0165954 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0558174 s
+Used RAM: 11 MB |7697|
+On boundaries:
+	1: 0.0755967 s
+	2: 0.0435203 s
+Used RAM: 27 MB |7697|
+Finishing:
+	SYS DoF = 1818,  0.0464522 s
++0.221871 s
+Used RAM: 27 MB |7697|
+% GMRES solution:
++1.56622 s
+Used RAM: 65 MB |7697|
+% Saving data:
+	S parameters: 6.8116e-05 s
++9.6195e-05 s
+++ 1.80593 s
+# END: Sun Aug  6 14:32:17 2023
+
+# START: Sun Aug  6 14:32:22 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0226823 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0511158 s
+Used RAM: 11 MB |7697|
+On boundaries:
+	1: 0.0834637 s
+	2: 0.043166 s
+Used RAM: 27 MB |7697|
+Finishing:
+	SYS DoF = 1433,  0.0634965 s
++0.296322 s
+Used RAM: 27 MB |7697|
+% GMRES solution:
++0.63287 s
+Used RAM: 59 MB |7697|
+% Saving data:
+	S parameters: 6.2983e-05 s
++0.000111229 s
+++ 0.963892 s
+# END: Sun Aug  6 14:32:23 2023
+
+# START: Sun Aug  6 14:32:30 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0183665 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.402211 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.678691 s
+	2: 0.735932 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.0258544 s
++1.84376 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++5.96709 s
+Used RAM: 178 MB |7697|
+% Saving data:
+	S parameters: 6.7246e-05 s
++0.000131225 s
+++ 7.83657 s
+# END: Sun Aug  6 14:32:38 2023
+
+# START: Sun Aug  6 14:32:40 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0225318 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.405857 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.669395 s
+	2: 0.735551 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.124174 s
++1.9705 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++4.71316 s
+Used RAM: 105 MB |7697|
+% Saving data:
+	S parameters: 8.6591e-05 s
++0.000133599 s
+++ 6.7074 s
+# END: Sun Aug  6 14:32:47 2023
+
+# START: Sun Aug  6 14:33:19 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 353
+Edges  = 1818
+Faces  = 2687
+Tetras = 1221
+++0.0179671 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.439858 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	1: 0.665668 s
+	2: 0.734754 s
+Used RAM: 105 MB |7697|
+Finishing:
+	SYS DoF = 7754,  0.0327477 s
++1.88643 s
+Used RAM: 105 MB |7697|
+% GMRES solution:
++5.99408 s
+Used RAM: 178 MB |7697|
+% Saving data:
+	S parameters: 0.000103765 s
+	Fields: 0.0529604 s
++0.0531263 s
+++ 7.95269 s
+# END: Sun Aug  6 14:33:27 2023
+
+# START: Sun Aug  6 14:37:18 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing HFSS project files
+Nodes  = 378
+Edges  = 1970
+Faces  = 2930
+Tetras = 1337
+++0.0956938 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.459726 s
+Used RAM: 18 MB |7697|
+On boundaries:
+	PerfE1: 0.000770246 s
+	1: 1.64304 s
+	2: 1.18303 s
+Used RAM: 95 MB |7697|
+Finishing:
+	SYS DoF = 7246,  0.0705625 s
++3.44985 s
+Used RAM: 95 MB |7697|
+% GMRES solution:
++6.554 s
+Used RAM: 170 MB |7697|
+% Saving data:
+	S parameters: 0.000928577 s
+	Fields: 0.404752 s
++0.406377 s
+++ 10.5087 s
+# END: Sun Aug  6 14:37:28 2023
+
+# START: Sun Aug  6 14:38:47 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 378
+Edges  = 1970
+Faces  = 2930
+Tetras = 1337
+++0.0196888 s
+Used RAM: 9 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.472172 s
+Used RAM: 17 MB |7697|
+On boundaries:
+	PerfE1: 0.000682282 s
+	1: 0.594334 s
+	2: 0.655569 s
+Used RAM: 94 MB |7697|
+Finishing:
+	SYS DoF = 7242,  0.0907476 s
++1.85062 s
+Used RAM: 94 MB |7697|
+% GMRES solution:
++2.41623 s
+Used RAM: 170 MB |7697|
+% Saving data:
+	S parameters: 0.00913678 s
+	Fields: 0.0652199 s
++0.0744421 s
+++ 4.36198 s
+# END: Sun Aug  6 14:38:52 2023
+
+# START: Sun Aug  6 14:50:37 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0866606 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.34154 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.0125649 s
+	1: 0.688145 s
+	2: 0.698763 s
+Used RAM: 93 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.116348 s
++1.92279 s
+Used RAM: 93 MB |7697|
+% GMRES solution:
++1.63407 s
+Used RAM: 126 MB |7697|
+% Saving data:
+	S parameters: 0.00895348 s
+	Fields: 0.0569424 s
++0.0669611 s
+++ 3.71195 s
+# END: Sun Aug  6 14:50:41 2023
+
+# START: Sun Aug  6 14:52:57 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0157585 s
+Used RAM: 9 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.352904 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000495224 s
+	1: 1.11301 s
+	2: 0.639033 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0415973 s
++2.18595 s
+Used RAM: 90 MB |7697|
+% Saving system matrices:
++0 s
+++ 2.44206 s
+# END: Sun Aug  6 14:52:59 2023
+
+# START: Sun Aug  6 14:53:03 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0146948 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0626267 s
+Used RAM: 10 MB |7697|
+On boundaries:
+	PerfE1: 0.0479849 s
+	1: 0.0669506 s
+	2: 0.0308197 s
+Used RAM: 24 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.0797511 s
++0.343832 s
+Used RAM: 24 MB |7697|
+% Saving system matrices:
++0 s
+++ 0.404745 s
+# END: Sun Aug  6 14:53:03 2023
+
+# START: Sun Aug  6 14:53:14 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0148221 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0697391 s
+Used RAM: 11 MB |7697|
+On boundaries:
+	PerfE1: 0.0329942 s
+	1: 0.0870394 s
+	2: 0.0308512 s
+Used RAM: 24 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.0633803 s
++0.318214 s
+Used RAM: 24 MB |7697|
+% GMRES solution:
++0.251492 s
+Used RAM: 47 MB |7697|
+% Saving data:
+	S parameters: 0.00915269 s
+	Fields: 0.0327055 s
++0.0419331 s
+++ 0.627337 s
+# END: Sun Aug  6 14:53:15 2023
+
+# START: Sun Aug  6 17:47:07 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.024745 s
+Used RAM: 8 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.047963 s
+Used RAM: 9 MB |7697|
+On boundaries:
+	PerfE1: 0.0239719 s
+	1: 0.0740306 s
+	2: 0.0314651 s
+Used RAM: 23 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.052456 s
++0.23023 s
+Used RAM: 23 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.021193 s
++0.105872 s
+Used RAM: 23 MB |7697|
+% Saving data:
+	S parameters: 0.000469039 s
++0.000578415 s
+++ 0.362432 s
+# END: Sun Aug  6 17:47:07 2023
+
+# START: Sun Aug  6 17:47:21 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0174086 s
+Used RAM: 8 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.363018 s
+Used RAM: 14 MB |7697|
+On boundaries:
+	PerfE1: 0.000563622 s
+	1: 0.568611 s
+	2: 0.600937 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0467061 s
++1.58034 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.135765 s
++0.188459 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 7.4336e-05 s
++0.000322031 s
+++ 1.78731 s
+# END: Sun Aug  6 17:47:22 2023
+
+# START: Sun Aug  6 17:47:28 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0168331 s
+Used RAM: 8 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.898067 s
+Used RAM: 35 MB |7697|
+On boundaries:
+	PerfE1: 0.000809784 s
+	1: 3.33048 s
+	2: 3.28534 s
+Used RAM: 358 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.194923 s
++7.73632 s
+Used RAM: 358 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.629856 s
++0.649423 s
+Used RAM: 358 MB |7697|
+% Saving data:
+	S parameters: 7.6904e-05 s
++0.00032615 s
+++ 8.40444 s
+# END: Sun Aug  6 17:47:36 2023
+
+# START: Sun Aug  6 17:47:50 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0256387 s
+Used RAM: 8 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.87727 s
+Used RAM: 35 MB |7697|
+On boundaries:
+	PerfE1: 0.000780887 s
+	1: 3.33306 s
+	2: 3.20585 s
+Used RAM: 358 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.18547 s
++7.62915 s
+Used RAM: 358 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.625646 s
++0.721996 s
+Used RAM: 358 MB |7697|
+% Saving data:
+	S parameters: 9.1332e-05 s
++0.000129797 s
+++ 8.38547 s
+# END: Sun Aug  6 17:47:59 2023
+
+# START: Sun Aug  6 17:48:18 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0347891 s
+Used RAM: 8 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.862201 s
+Used RAM: 35 MB |7697|
+On boundaries:
+	PerfE1: 0.00079963 s
+	1: 3.34684 s
+	2: 3.22091 s
+Used RAM: 358 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.155639 s
++7.63914 s
+Used RAM: 358 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.498717 s
++0.518434 s
+Used RAM: 358 MB |7697|
+% Saving data:
+	S parameters: 0.000116106 s
++0.000514578 s
+++ 8.19446 s
+# END: Sun Aug  6 17:48:27 2023
+
+# START: Sun Aug  6 18:12:40 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0356064 s
+Used RAM: 8 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.885816 s
+Used RAM: 35 MB |7697|
+On boundaries:
+	PerfE1: 0.000791671 s
+	1: 3.33541 s
+	2: 3.20305 s
+Used RAM: 358 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.167659 s
++7.65402 s
+Used RAM: 358 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.55059 s
++0.570424 s
+Used RAM: 358 MB |7697|
+% Saving data:
+	S parameters: 0.00912416 s
++0.00957079 s
+++ 8.27256 s
+# END: Sun Aug  6 18:12:48 2023
+
+# START: Sun Aug  6 18:20:00 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0347753 s
+Used RAM: 9 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.340098 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.00049553 s
+	1: 0.575662 s
+	2: 0.605353 s
+Used RAM: 92 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0635432 s
++1.63035 s
+Used RAM: 92 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.105074 s
++0.106923 s
+Used RAM: 92 MB |7697|
+% Saving data:
+	S parameters: 0.00010317 s
++0.000213649 s
+++ 1.77376 s
+# END: Sun Aug  6 18:20:02 2023
+
+# START: Sun Aug  6 18:20:04 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0241532 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.335975 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000544026 s
+	1: 0.567281 s
+	2: 0.603539 s
+Used RAM: 92 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0889545 s
++1.63358 s
+Used RAM: 92 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.112698 s
++0.114595 s
+Used RAM: 92 MB |7697|
+% Saving data:
+	S parameters: 0.000103933 s
++0.000158688 s
+++ 1.78194 s
+# END: Sun Aug  6 18:20:06 2023
+
+# START: Sun Aug  6 18:20:08 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0258079 s
+Used RAM: 10 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.328351 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000550838 s
+	1: 0.577022 s
+	2: 0.615285 s
+Used RAM: 93 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0830585 s
++1.63884 s
+Used RAM: 93 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.119402 s
++0.122034 s
+Used RAM: 93 MB |7697|
+% Saving data:
+	S parameters: 0.000115257 s
++0.00022209 s
+++ 1.79505 s
+# END: Sun Aug  6 18:20:10 2023
+
+# START: Sun Aug  6 18:20:13 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0347197 s
+Used RAM: 9 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.336733 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.00051052 s
+	1: 0.568387 s
+	2: 0.604499 s
+Used RAM: 93 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016221 s
++1.52713 s
+Used RAM: 93 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.110119 s
++0.112867 s
+Used RAM: 93 MB |7697|
+% Saving data:
+	S parameters: 0.000145328 s
++0.000546973 s
+++ 1.6768 s
+# END: Sun Aug  6 18:20:15 2023
+
+# START: Sun Aug  6 18:20:21 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0308829 s
+Used RAM: 9 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.342981 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000605827 s
+	1: 0.576401 s
+	2: 0.604484 s
+Used RAM: 93 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164586 s
++1.54162 s
+Used RAM: 93 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.111252 s
++0.11318 s
+Used RAM: 93 MB |7697|
+% Saving data:
+	S parameters: 0.000169822 s
++0.00027272 s
+++ 1.68726 s
+# END: Sun Aug  6 18:20:23 2023
+
+# START: Sun Aug  6 18:21:16 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.030405 s
+Used RAM: 9 MB |7697|
+--- Frequency = 6e+10 ---
+% Assembly Symmetric:
+In solids: 0.328562 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000551124 s
+	1: 0.582776 s
+	2: 0.604082 s
+Used RAM: 93 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.111552 s
++1.66163 s
+Used RAM: 93 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.108998 s
++0.111817 s
+Used RAM: 93 MB |7697|
+% Saving data:
+	S parameters: 9.7689e-05 s
++0.000213284 s
+--- Frequency = 6.4e+10 ---
+% Assembly Symmetric:
+In solids: 0.35909 s
+Used RAM: 93 MB |7697|
+On boundaries:
+	PerfE1: 0.000743668 s
+	1: 0.539346 s
+	2: 0.631913 s
+Used RAM: 97 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0870447 s
++1.65518 s
+Used RAM: 97 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.111604 s
++0.114103 s
+Used RAM: 97 MB |7697|
+% Saving data:
+	S parameters: 0.000114474 s
++0.000496585 s
+--- Frequency = 6.8e+10 ---
+% Assembly Symmetric:
+In solids: 0.325236 s
+Used RAM: 97 MB |7697|
+On boundaries:
+	PerfE1: 0.000744201 s
+	1: 0.537566 s
+	2: 0.604888 s
+Used RAM: 97 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0591666 s
++1.56404 s
+Used RAM: 97 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.115545 s
++0.118371 s
+Used RAM: 97 MB |7697|
+% Saving data:
+	S parameters: 9.8498e-05 s
++0.000476787 s
+--- Frequency = 7.2e+10 ---
+% Assembly Symmetric:
+In solids: 0.333868 s
+Used RAM: 97 MB |7697|
+On boundaries:
+	PerfE1: 0.000742895 s
+	1: 0.534135 s
+	2: 0.598709 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0557325 s
++1.55705 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.112872 s
++0.119955 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000113497 s
++0.000497482 s
+--- Frequency = 7.6e+10 ---
+% Assembly Symmetric:
+In solids: 0.335759 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000754177 s
+	1: 0.538015 s
+	2: 0.604593 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0172667 s
++1.49707 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.105088 s
++0.106937 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000107314 s
++0.000495377 s
+--- Frequency = 8e+10 ---
+% Assembly Symmetric:
+In solids: 0.319986 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000719517 s
+	1: 0.537753 s
+	2: 0.604109 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.100018 s
++1.60527 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0980817 s
++0.10039 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 7.6442e-05 s
++0.000108931 s
+--- Frequency = 8.4e+10 ---
+% Assembly Symmetric:
+In solids: 0.328462 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000744803 s
+	1: 0.535648 s
+	2: 0.60362 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0823083 s
++1.58954 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.108491 s
++0.122958 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.00888921 s
++0.00901979 s
+--- Frequency = 8.8e+10 ---
+% Assembly Symmetric:
+In solids: 0.330845 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000765813 s
+	1: 0.539776 s
+	2: 0.604185 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0217073 s
++1.52603 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.106324 s
++0.108583 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000111853 s
++0.000491888 s
+--- Frequency = 9.2e+10 ---
+% Assembly Symmetric:
+In solids: 0.305326 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000730164 s
+	1: 0.535055 s
+	2: 0.605892 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.103285 s
++1.589 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0955582 s
++0.0977655 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000108215 s
++0.000203997 s
+--- Frequency = 9.6e+10 ---
+% Assembly Symmetric:
+In solids: 0.315003 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000725862 s
+	1: 0.532111 s
+	2: 0.597883 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162747 s
++1.46252 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.106402 s
++0.108238 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.00011136 s
++0.000490744 s
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.331106 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000714644 s
+	1: 0.533774 s
+	2: 0.600788 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0823952 s
++1.58848 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.114481 s
++0.129181 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000123997 s
++0.000225586 s
+++ 18.6095 s
+# END: Sun Aug  6 18:21:35 2023
+
+# START: Sun Aug  6 18:21:46 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0325808 s
+Used RAM: 9 MB |7697|
+--- Frequency = 5e+10 ---
+% Assembly Symmetric:
+In solids: 0.338074 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000525112 s
+	1: 0.577529 s
+	2: 0.608772 s
+Used RAM: 92 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0968327 s
++1.65657 s
+Used RAM: 92 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.103511 s
++0.106245 s
+Used RAM: 92 MB |7697|
+% Saving data:
+	S parameters: 0.00011822 s
++0.000237884 s
+--- Frequency = 5.1e+10 ---
+% Assembly Symmetric:
+In solids: 0.334417 s
+Used RAM: 92 MB |7697|
+On boundaries:
+	PerfE1: 0.000749514 s
+	1: 0.535746 s
+	2: 0.603069 s
+Used RAM: 97 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0852014 s
++1.59468 s
+Used RAM: 97 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.108465 s
++0.116441 s
+Used RAM: 97 MB |7697|
+% Saving data:
+	S parameters: 0.000117721 s
++0.000230937 s
+--- Frequency = 5.2e+10 ---
+% Assembly Symmetric:
+In solids: 0.3281 s
+Used RAM: 97 MB |7697|
+On boundaries:
+	PerfE1: 0.00160563 s
+	1: 0.534823 s
+	2: 0.602749 s
+Used RAM: 97 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162613 s
++1.48418 s
+Used RAM: 97 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.101484 s
++0.103365 s
+Used RAM: 97 MB |7697|
+% Saving data:
+	S parameters: 0.00011818 s
++0.000506378 s
+--- Frequency = 5.3e+10 ---
+% Assembly Symmetric:
+In solids: 0.311534 s
+Used RAM: 97 MB |7697|
+On boundaries:
+	PerfE1: 0.00146535 s
+	1: 0.535803 s
+	2: 0.601588 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.073276 s
++1.55839 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.100765 s
++0.103173 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000107611 s
++0.000149147 s
+--- Frequency = 5.4e+10 ---
+% Assembly Symmetric:
+In solids: 0.31451 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000744369 s
+	1: 0.53339 s
+	2: 0.603591 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0161472 s
++1.46888 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0994875 s
++0.101948 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000108671 s
++0.00020888 s
+--- Frequency = 5.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.332021 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.00369868 s
+	1: 0.533209 s
+	2: 0.601729 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0641848 s
++1.57156 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.102076 s
++0.110629 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000118546 s
++0.000201896 s
+--- Frequency = 5.6e+10 ---
+% Assembly Symmetric:
+In solids: 0.329536 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000730516 s
+	1: 0.536003 s
+	2: 0.602415 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.110857 s
++1.61571 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0940281 s
++0.0960931 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000118448 s
++0.000158742 s
+--- Frequency = 5.7e+10 ---
+% Assembly Symmetric:
+In solids: 0.31876 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000761487 s
+	1: 0.532442 s
+	2: 1.04478 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0835777 s
++2.00979 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.108921 s
++0.111479 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000102979 s
++0.000203753 s
+--- Frequency = 5.8e+10 ---
+% Assembly Symmetric:
+In solids: 0.336024 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000717784 s
+	1: 0.539755 s
+	2: 0.610018 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.115743 s
++1.64027 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.103447 s
++0.105934 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000109923 s
++0.000501967 s
+--- Frequency = 5.9e+10 ---
+% Assembly Symmetric:
+In solids: 0.333387 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000741869 s
+	1: 0.542718 s
+	2: 0.603939 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0769088 s
++1.58201 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.112657 s
++0.115667 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000117226 s
++0.000497988 s
+--- Frequency = 6e+10 ---
+% Assembly Symmetric:
+In solids: 0.351986 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000777779 s
+	1: 0.540276 s
+	2: 0.601572 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0170821 s
++1.51234 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.106393 s
++0.108312 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000116804 s
++0.000505719 s
+++ 18.9326 s
+# END: Sun Aug  6 18:22:05 2023
+
+# START: Sun Aug  6 18:22:24 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0372572 s
+Used RAM: 10 MB |7697|
+--- Frequency = 5e+10 ---
+% Assembly Symmetric:
+In solids: 0.339729 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000499623 s
+	1: 0.576126 s
+	2: 0.612169 s
+Used RAM: 93 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0827756 s
++1.64839 s
+Used RAM: 93 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.113027 s
++0.114969 s
+Used RAM: 93 MB |7697|
+% Saving data:
+	S parameters: 0.000107035 s
++0.00050478 s
+--- Frequency = 5.1e+10 ---
+% Assembly Symmetric:
+In solids: 0.329983 s
+Used RAM: 93 MB |7697|
+On boundaries:
+	PerfE1: 0.000680608 s
+	1: 0.537863 s
+	2: 0.603407 s
+Used RAM: 97 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0171154 s
++1.48961 s
+Used RAM: 97 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0987371 s
++0.100828 s
+Used RAM: 97 MB |7697|
+% Saving data:
+	S parameters: 0.000103829 s
++0.000488607 s
+--- Frequency = 5.2e+10 ---
+% Assembly Symmetric:
+In solids: 0.321005 s
+Used RAM: 97 MB |7697|
+On boundaries:
+	PerfE1: 0.000708586 s
+	1: 0.53902 s
+	2: 0.608313 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0169663 s
++1.48646 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0946984 s
++0.0968023 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000105819 s
++0.000316215 s
+--- Frequency = 5.3e+10 ---
+% Assembly Symmetric:
+In solids: 0.332527 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000738582 s
+	1: 0.544781 s
+	2: 0.607103 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167166 s
++1.50254 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.105516 s
++0.107192 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000117447 s
++0.000221354 s
+--- Frequency = 5.4e+10 ---
+% Assembly Symmetric:
+In solids: 0.32158 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000736457 s
+	1: 0.540254 s
+	2: 0.606851 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0852938 s
++1.5917 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.110615 s
++0.113228 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 9.8541e-05 s
++0.000481013 s
+--- Frequency = 5.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.331443 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000728431 s
+	1: 0.532462 s
+	2: 0.605152 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0170084 s
++1.4873 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.103755 s
++0.10555 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 9.9835e-05 s
++0.000488905 s
+--- Frequency = 5.6e+10 ---
+% Assembly Symmetric:
+In solids: 0.327802 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000709771 s
+	1: 0.545297 s
+	2: 0.601864 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.107828 s
++1.61429 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.100089 s
++0.102786 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000115887 s
++0.000215144 s
+--- Frequency = 5.7e+10 ---
+% Assembly Symmetric:
+In solids: 0.331515 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000676364 s
+	1: 0.538099 s
+	2: 0.607098 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162597 s
++1.4943 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.108732 s
++0.110617 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000103663 s
++0.00049587 s
+--- Frequency = 5.8e+10 ---
+% Assembly Symmetric:
+In solids: 0.313456 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000695437 s
+	1: 0.540542 s
+	2: 0.607812 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.120886 s
++1.61577 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.100206 s
++0.102833 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000107802 s
++0.000488444 s
+--- Frequency = 5.9e+10 ---
+% Assembly Symmetric:
+In solids: 0.31578 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.00074434 s
+	1: 0.531929 s
+	2: 0.605402 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0550648 s
++1.53916 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.11092 s
++0.1199 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000111123 s
++0.000495612 s
+--- Frequency = 6e+10 ---
+% Assembly Symmetric:
+In solids: 0.325924 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000729143 s
+	1: 0.541582 s
+	2: 0.608722 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0823588 s
++1.58141 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.112777 s
++0.12725 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000108775 s
++0.000213989 s
+++ 18.31 s
+# END: Sun Aug  6 18:22:42 2023
+
+# START: Sun Aug  6 18:23:59 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 1
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0190504 s
+Used RAM: 9 MB |7697|
+--- Frequency = 5e+10 ---
+% Assembly Symmetric:
+In solids: 0.368216 s
+Used RAM: 15 MB |7697|
+On boundaries:
+	PerfE1: 0.000489773 s
+	1: 0.576748 s
+	2: 0.609637 s
+Used RAM: 93 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0307628 s
++1.61628 s
+Used RAM: 93 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.113347 s
++0.116188 s
+Used RAM: 93 MB |7697|
+% Saving data:
+	S parameters: 0.000227046 s
++0.000284975 s
+--- Frequency = 5.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.319369 s
+Used RAM: 93 MB |7697|
+On boundaries:
+	PerfE1: 0.000811597 s
+	1: 0.534795 s
+	2: 0.60197 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0380292 s
++1.52253 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.110674 s
++0.112552 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000121662 s
++0.000509501 s
+--- Frequency = 6e+10 ---
+% Assembly Symmetric:
+In solids: 0.313224 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000752415 s
+	1: 0.531863 s
+	2: 0.602195 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164971 s
++1.46525 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0991723 s
++0.101786 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000111376 s
++0.000496585 s
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.32728 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000754967 s
+	1: 0.541766 s
+	2: 0.599963 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0311746 s
++1.51942 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.109104 s
++0.111514 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 9.5998e-05 s
++0.000480073 s
+--- Frequency = 7e+10 ---
+% Assembly Symmetric:
+In solids: 0.335693 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000710535 s
+	1: 0.532926 s
+	2: 0.606205 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0674669 s
++1.59159 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.113296 s
++0.115156 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000111649 s
++0.00049547 s
+--- Frequency = 7.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.332704 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000716 s
+	1: 0.531939 s
+	2: 0.600344 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0797711 s
++1.57513 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.088872 s
++0.0905965 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000110946 s
++0.000177582 s
+--- Frequency = 8e+10 ---
+% Assembly Symmetric:
+In solids: 0.33753 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000748342 s
+	1: 0.59577 s
+	2: 0.605761 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.019218 s
++1.55966 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.108052 s
++0.109767 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 9.3095e-05 s
++0.000478998 s
+--- Frequency = 8.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.328642 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000757099 s
+	1: 0.532723 s
+	2: 0.605908 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.094734 s
++1.60441 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0782426 s
++0.0810571 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000107382 s
++0.000489834 s
+--- Frequency = 9e+10 ---
+% Assembly Symmetric:
+In solids: 0.325343 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.0007072 s
+	1: 0.538129 s
+	2: 0.606554 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0161885 s
++1.48756 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.102649 s
++0.104299 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 9.6683e-05 s
++0.000198253 s
+--- Frequency = 9.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.308626 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000754672 s
+	1: 0.534453 s
+	2: 0.603611 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162131 s
++1.46415 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.104932 s
++0.106779 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000110361 s
++0.000499985 s
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.316565 s
+Used RAM: 98 MB |7697|
+On boundaries:
+	PerfE1: 0.000767752 s
+	1: 0.534102 s
+	2: 0.604415 s
+Used RAM: 98 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.101111 s
++1.59077 s
+Used RAM: 98 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.118271 s
++0.119952 s
+Used RAM: 98 MB |7697|
+% Saving data:
+	S parameters: 0.000108611 s
++0.000491731 s
+++ 18.2109 s
+# END: Sun Aug  6 18:24:18 2023
+
+# START: Sun Aug  6 20:21:38 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0308246 s
+Used RAM: 7 MB |7697|
+--- Frequency = 6e+10 ---
+% Assembly Symmetric:
+In solids: 0.0647291 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.0212667 s
+	1: 0.0664473 s
+	2: 0.0328258 s
+Used RAM: 18 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.0380638 s
++0.223893 s
+Used RAM: 18 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0452989 s
++0.129752 s
+Used RAM: 18 MB |7697|
+% Saving data:
+	S parameters: 0.00885533 s
++0.00929932 s
+++ 0.395404 s
+# END: Sun Aug  6 20:21:38 2023
+
+# START: Sun Aug  6 20:21:48 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0262422 s
+Used RAM: 7 MB |7697|
+--- Frequency = 6e+10 ---
+% Assembly Symmetric:
+In solids: 0.897693 s
+Used RAM: 34 MB |7697|
+On boundaries:
+	PerfE1: 0.000885407 s
+	1: 2.84079 s
+	2: 2.71196 s
+Used RAM: 353 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.178312 s
++6.65599 s
+Used RAM: 353 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.611377 s
++0.631908 s
+Used RAM: 353 MB |7697|
+% Saving data:
+	S parameters: 9.0428e-05 s
++0.000350852 s
+++ 7.31528 s
+# END: Sun Aug  6 20:21:56 2023
+
+# START: Sun Aug  6 20:22:08 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0177621 s
+Used RAM: 7 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.897808 s
+Used RAM: 34 MB |7697|
+On boundaries:
+	PerfE1: 0.000772039 s
+	1: 2.84929 s
+	2: 2.67043 s
+Used RAM: 354 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.189386 s
++6.63401 s
+Used RAM: 354 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.614461 s
++0.634105 s
+Used RAM: 354 MB |7697|
+% Saving data:
+	S parameters: 7.7364e-05 s
++0.000334434 s
+++ 7.287 s
+# END: Sun Aug  6 20:22:15 2023
+
+# START: Sun Aug  6 20:22:28 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0166306 s
+Used RAM: 7 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.896332 s
+Used RAM: 34 MB |7697|
+On boundaries:
+	PerfE1: 0.000810122 s
+	1: 2.85785 s
+	2: 2.73275 s
+Used RAM: 353 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.189643 s
++6.70438 s
+Used RAM: 353 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.617672 s
++0.721426 s
+Used RAM: 353 MB |7697|
+% Saving data:
+	S parameters: 0.008906 s
++0.00925126 s
+++ 7.46213 s
+# END: Sun Aug  6 20:22:35 2023
+
+# START: Sun Aug  6 20:23:53 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0219448 s
+Used RAM: 7 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.342606 s
+Used RAM: 13 MB |7697|
+On boundaries:
+	PerfE1: 0.000555289 s
+	1: 0.586939 s
+	2: 0.603352 s
+Used RAM: 85 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0950989 s
++1.62929 s
+Used RAM: 85 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.132315 s
++0.226397 s
+Used RAM: 85 MB |7697|
+% Saving data:
+	S parameters: 7.8838e-05 s
++0.000109913 s
+++ 1.87875 s
+# END: Sun Aug  6 20:23:54 2023
+
+# START: Sun Aug  6 20:25:53 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0231071 s
+Used RAM: 7 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.345581 s
+Used RAM: 13 MB |7697|
+On boundaries:
+	PerfE1: 0.000554671 s
+	1: 0.595576 s
+	2: 0.601041 s
+Used RAM: 85 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0530495 s
++1.59638 s
+Used RAM: 85 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.14144 s
++0.275964 s
+Used RAM: 85 MB |7697|
+% Saving data:
+	S parameters: 0.00916917 s
++0.0092151 s
+++ 1.90625 s
+# END: Sun Aug  6 20:25:55 2023
+
+# START: Sun Aug  6 22:19:16 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0160564 s
+Used RAM: 5 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.349289 s
+Used RAM: 10 MB |7697|
+On boundaries:
+	PerfE1: 0.000517791 s
+	1: 1.5702 s
+	2: 1.44596 s
+Used RAM: 82 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0398245 s
++3.40649 s
+Used RAM: 82 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.120887 s
++0.122741 s
+Used RAM: 82 MB |7697|
+% Saving data:
+	S parameters: 7.8763e-05 s
++0.000106549 s
+++ 3.54583 s
+# END: Sun Aug  6 22:19:20 2023
+
+# START: Sun Aug  6 22:19:26 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0148625 s
+Used RAM: 5 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.345463 s
+Used RAM: 10 MB |7697|
+On boundaries:
+	PerfE1: 0.000528086 s
+	1: 1.5739 s
+	2: 1.44169 s
+Used RAM: 82 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0402192 s
++3.40254 s
+Used RAM: 82 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.121296 s
++0.123495 s
+Used RAM: 82 MB |7697|
+% Saving data:
+	S parameters: 6.5517e-05 s
++9.6064e-05 s
+++ 3.54139 s
+# END: Sun Aug  6 22:19:29 2023
+
+# START: Sun Aug  6 22:19:36 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0228498 s
+Used RAM: 5 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.346235 s
+Used RAM: 10 MB |7697|
+On boundaries:
+	PerfE1: 0.000497863 s
+	1: 1.56597 s
+	2: 1.43997 s
+Used RAM: 82 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016755 s
++3.37026 s
+Used RAM: 82 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.102658 s
++0.104091 s
+Used RAM: 82 MB |7697|
+% Saving data:
+	S parameters: 0.000100466 s
++0.000146039 s
+++ 3.49766 s
+# END: Sun Aug  6 22:19:39 2023
+
+# START: Sun Aug  6 22:20:23 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0348729 s
+Used RAM: 5 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.912549 s
+Used RAM: 31 MB |7697|
+On boundaries:
+	PerfE1: 0.000758409 s
+	1: 13.3139 s
+	2: 12.4811 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0856091 s
++26.8085 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.782039 s
++0.79828 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 9.1025e-05 s
++0.000135812 s
+++ 27.6428 s
+# END: Sun Aug  6 22:20:50 2023
+
+# START: Sun Aug  6 22:23:13 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0323987 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0418096 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000482184 s
+	1: 0.0909687 s
+	2: 0.0752656 s
+Used RAM: 12 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00296898 s
++0.212382 s
+Used RAM: 12 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0106963 s
++0.0117044 s
+Used RAM: 12 MB |7697|
+% Saving data:
+	S parameters: 0.000102985 s
++0.000525765 s
+++ 0.259045 s
+# END: Sun Aug  6 22:23:13 2023
+
+# START: Sun Aug  6 22:23:16 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.046573 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.477974 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000346286 s
+	1: 1.58954 s
+	2: 1.44934 s
+Used RAM: 80 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0154604 s
++3.53323 s
+Used RAM: 80 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.100126 s
++0.101418 s
+Used RAM: 80 MB |7697|
+% Saving data:
+	S parameters: 6.2397e-05 s
++9.0236e-05 s
+++ 3.68242 s
+# END: Sun Aug  6 22:23:20 2023
+
+# START: Sun Aug  6 22:23:28 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0484609 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.479157 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000351346 s
+	1: 1.58795 s
+	2: 1.45342 s
+Used RAM: 80 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0161661 s
++3.53765 s
+Used RAM: 80 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.101556 s
++0.102909 s
+Used RAM: 80 MB |7697|
+% Saving data:
+	S parameters: 9.3532e-05 s
++0.000122156 s
+++ 3.69025 s
+# END: Sun Aug  6 22:23:32 2023
+
+# START: Sun Aug  6 22:23:43 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0382032 s
+Used RAM: 3 MB |7697|
+--- Frequency = 5e+10 ---
+% Assembly Symmetric:
+In solids: 0.481439 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000349745 s
+	1: 1.58032 s
+	2: 1.44878 s
+Used RAM: 80 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0158049 s
++3.5273 s
+Used RAM: 80 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.100567 s
++0.101919 s
+Used RAM: 80 MB |7697|
+% Saving data:
+	S parameters: 9.0587e-05 s
++0.000111921 s
+++ 3.66869 s
+# END: Sun Aug  6 22:23:46 2023
+
+# START: Sun Aug  6 22:23:52 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0469962 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.481198 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000347897 s
+	1: 1.57974 s
+	2: 1.44875 s
+Used RAM: 80 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0157779 s
++3.52641 s
+Used RAM: 80 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.102248 s
++0.103555 s
+Used RAM: 80 MB |7697|
+% Saving data:
+	S parameters: 9.9169e-05 s
++0.000140962 s
+++ 3.6782 s
+# END: Sun Aug  6 22:23:55 2023
+
+# START: Sun Aug  6 22:24:31 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0453481 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 1.57751 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000672316 s
+	1: 14.6822 s
+	2: 13.7734 s
+Used RAM: 348 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0845699 s
++30.1306 s
+Used RAM: 348 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.785716 s
++0.801887 s
+Used RAM: 348 MB |7697|
+% Saving data:
+	S parameters: 7.7483e-05 s
++0.000109115 s
+++ 30.979 s
+# END: Sun Aug  6 22:25:02 2023
+
+# START: Sun Aug  6 22:27:09 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0378784 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.878971 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000722106 s
+	1: 14.7622 s
+	2: 13.9081 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0859029 s
++29.649 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.785158 s
++0.801559 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 6.3475e-05 s
++9.0542e-05 s
+++ 30.49 s
+# END: Sun Aug  6 22:27:39 2023
+
+# START: Sun Aug  6 22:28:43 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0361114 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.889064 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000764766 s
+	1: 14.6533 s
+	2: 13.85 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0896721 s
++29.496 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.787162 s
++0.80377 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 0.000100375 s
++0.000135772 s
+++ 30.3374 s
+# END: Sun Aug  6 22:29:13 2023
+
+# START: Sun Aug  6 22:29:58 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0313612 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.905164 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000736461 s
+	1: 15.1293 s
+	2: 14.2792 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.086944 s
++30.4145 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.800492 s
++0.817367 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 7.9801e-05 s
++0.000101544 s
+++ 31.2644 s
+# END: Sun Aug  6 22:30:30 2023
+
+# START: Sun Aug  6 22:30:47 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0393205 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.344694 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000529911 s
+	1: 1.7326 s
+	2: 1.59854 s
+Used RAM: 80 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016555 s
++3.6936 s
+Used RAM: 80 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.10568 s
++0.107093 s
+Used RAM: 80 MB |7697|
+% Saving data:
+	S parameters: 8.105e-05 s
++0.000113999 s
+++ 3.8412 s
+# END: Sun Aug  6 22:30:50 2023
+
+# START: Sun Aug  6 22:30:55 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0274302 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0701425 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.0259602 s
+	1: 0.119317 s
+	2: 0.0815444 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.0477166 s
++0.397438 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00830845 s
++0.00904624 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 7.3733e-05 s
++9.8773e-05 s
+++ 0.443018 s
+# END: Sun Aug  6 22:30:55 2023
+
+# START: Sun Aug  6 22:31:04 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0380952 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.344068 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.00134446 s
+	1: 1.72938 s
+	2: 1.59791 s
+Used RAM: 80 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0172146 s
++3.69064 s
+Used RAM: 80 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.106446 s
++0.1079 s
+Used RAM: 80 MB |7697|
+% Saving data:
+	S parameters: 7.9227e-05 s
++0.000106295 s
+++ 3.83791 s
+# END: Sun Aug  6 22:31:08 2023
+
+# START: Sun Aug  6 22:31:11 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0235459 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.921521 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000877638 s
+	1: 15.039 s
+	2: 14.4117 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0865472 s
++30.4733 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.806845 s
++0.824633 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 0.000112121 s
++0.000155727 s
+++ 31.3228 s
+# END: Sun Aug  6 22:31:43 2023
+
+# START: Sun Aug  6 22:31:54 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.036276 s
+Used RAM: 3 MB |7697|
+--- Frequency = 6.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.953923 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.00087131 s
+	1: 15.074 s
+	2: 14.2546 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0875876 s
++30.3845 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.798143 s
++0.815086 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 8.6727e-05 s
++0.000131055 s
+++ 31.2371 s
+# END: Sun Aug  6 22:32:26 2023
+
+# START: Sun Aug  6 22:33:51 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0261822 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.077204 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.0241585 s
+	1: 0.12529 s
+	2: 0.0756054 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.0398291 s
++0.349149 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0103224 s
++0.0776674 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 6.9292e-05 s
++0.000323217 s
+++ 0.45417 s
+# END: Sun Aug  6 22:33:52 2023
+
+# START: Sun Aug  6 22:33:58 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0337571 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.350867 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.00242703 s
+	1: 1.71453 s
+	2: 1.57985 s
+Used RAM: 80 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0423099 s
++3.69053 s
+Used RAM: 80 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.127288 s
++0.129478 s
+Used RAM: 80 MB |7697|
+% Saving data:
+	S parameters: 7.4498e-05 s
++0.000167918 s
+++ 3.85449 s
+# END: Sun Aug  6 22:34:02 2023
+
+# START: Sun Aug  6 22:34:10 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.03094 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.937181 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000796893 s
+	1: 15.1361 s
+	2: 14.2356 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.125081 s
++30.4511 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 1.00804 s
++1.0291 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 7.8633e-05 s
++0.00011145 s
+++ 31.5122 s
+# END: Sun Aug  6 22:34:42 2023
+
+# START: Sun Aug  6 22:35:38 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0342314 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.975729 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.00165753 s
+	1: 14.9588 s
+	2: 14.1686 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.125479 s
++30.2464 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.996634 s
++1.01745 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 8.2062e-05 s
++0.000140876 s
+++ 31.2987 s
+# END: Sun Aug  6 22:36:09 2023
+
+# START: Sun Aug  6 22:39:15 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0279158 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.0087 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000818978 s
+	1: 14.6985 s
+	2: 14.3425 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.121847 s
++30.1867 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 1.00773 s
++1.02806 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 6.6543e-05 s
++0.000100699 s
+++ 31.2432 s
+# END: Sun Aug  6 22:39:46 2023
+
+# START: Sun Aug  6 22:43:59 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0274792 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.62531 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.00058658 s
+	1: 15.6038 s
+	2: 14.4867 s
+Used RAM: 348 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.172903 s
++31.9041 s
+Used RAM: 348 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 61 MB
+	Factor and Solve: 1.03186 s
++1.05477 s
+Used RAM: 348 MB |7697|
+% Saving data:
+	S parameters: 8.7451e-05 s
++0.00013144 s
+++ 32.987 s
+# END: Sun Aug  6 22:44:32 2023
+
+# START: Sun Aug  6 22:47:42 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0307949 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.59803 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000501369 s
+	1: 15.3901 s
+	2: 14.6757 s
+Used RAM: 348 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0832893 s
++31.7638 s
+Used RAM: 348 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.964265 s
++0.980903 s
+Used RAM: 348 MB |7697|
+% Saving data:
+	S parameters: 9.7005e-05 s
++0.000139181 s
+++ 32.7767 s
+# END: Sun Aug  6 22:48:15 2023
+
+# START: Sun Aug  6 22:50:34 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0287582 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.67536 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000501243 s
+	1: 14.546 s
+	2: 13.6014 s
+Used RAM: 348 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0805075 s
++29.9198 s
+Used RAM: 348 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.822917 s
++0.839159 s
+Used RAM: 348 MB |7697|
+% Saving data:
+	S parameters: 0.000100142 s
++0.000144581 s
+++ 30.7887 s
+# END: Sun Aug  6 22:51:05 2023
+
+# START: Sun Aug  6 22:52:36 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0319164 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.68755 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000519453 s
+	1: 15.1032 s
+	2: 14.3409 s
+Used RAM: 348 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0807226 s
++31.2304 s
+Used RAM: 348 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.833367 s
++0.851528 s
+Used RAM: 348 MB |7697|
+% Saving data:
+	S parameters: 9.172e-05 s
++0.000140024 s
+++ 32.1144 s
+# END: Sun Aug  6 22:53:09 2023
+
+# START: Mon Aug  7 01:31:47 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.029815 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.945772 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000758842 s
+	1: 2.877 s
+	2: 2.62774 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0978048 s
++6.56474 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.385505 s
++0.402101 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.00936416 s
++0.00965036 s
+++ 7.00914 s
+# END: Mon Aug  7 01:31:54 2023
+
+# START: Mon Aug  7 01:32:11 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0319659 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.936865 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.0148509 s
+	1: 2.93041 s
+	2: 2.64769 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0876265 s
++6.63179 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.432407 s
++0.449318 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000229921 s
++0.000535837 s
+++ 7.11446 s
+# END: Mon Aug  7 01:32:18 2023
+
+# START: Mon Aug  7 01:33:07 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0198298 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.50961 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000502074 s
+	1: 3.80523 s
+	2: 3.5746 s
+Used RAM: 347 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0829272 s
++8.98637 s
+Used RAM: 347 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.320889 s
++0.337165 s
+Used RAM: 347 MB |7697|
+% Saving data:
+	S parameters: 8.4174e-05 s
++0.000119844 s
+++ 9.34386 s
+# END: Mon Aug  7 01:33:17 2023
+
+# START: Mon Aug  7 01:33:50 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.015365 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.811061 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000771576 s
+	1: 2.81792 s
+	2: 2.53078 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0874518 s
++6.2622 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.393666 s
++0.411628 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000625615 s
++0.00104675 s
+++ 6.69082 s
+# END: Mon Aug  7 01:33:56 2023
+
+# START: Mon Aug  7 01:39:08 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0171403 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.782985 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000714902 s
+	1: 2.63886 s
+	2: 3.0734 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0869082 s
++6.59849 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.389667 s
++0.406885 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000253245 s
++0.000294645 s
+++ 7.0232 s
+# END: Mon Aug  7 01:39:15 2023
+
+# START: Mon Aug  7 01:39:25 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0243099 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.806788 s
+Used RAM: 31 MB |7697|
+On boundaries:
+	PerfE1: 0.00111535 s
+	1: 3.03249 s
+	2: 2.78872 s
+Used RAM: 356 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0830507 s
++6.72503 s
+Used RAM: 356 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.639459 s
++0.655928 s
+Used RAM: 356 MB |7697|
+% Saving data:
+	S parameters: 8.4728e-05 s
++0.000126889 s
+++ 7.40579 s
+# END: Mon Aug  7 01:39:33 2023
+
+# START: Mon Aug  7 01:39:42 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0230594 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.882368 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000891547 s
+	1: 2.66654 s
+	2: 2.44969 s
+Used RAM: 348 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0825496 s
++6.09668 s
+Used RAM: 348 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.317456 s
++0.335348 s
+Used RAM: 348 MB |7697|
+% Saving data:
+	S parameters: 8.8535e-05 s
++0.000134058 s
+++ 6.45559 s
+# END: Mon Aug  7 01:39:48 2023
+
+# START: Mon Aug  7 01:40:13 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0171155 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.871824 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000777312 s
+	1: 2.96914 s
+	2: 2.72797 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0831943 s
++6.67002 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.36103 s
++0.37939 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 8.216e-05 s
++0.000138246 s
+++ 7.06698 s
+# END: Mon Aug  7 01:40:20 2023
+
+# START: Mon Aug  7 01:40:36 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0117486 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.49322 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000531341 s
+	1: 3.79123 s
+	2: 3.56169 s
+Used RAM: 347 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0842343 s
++8.94694 s
+Used RAM: 347 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.322155 s
++0.33943 s
+Used RAM: 347 MB |7697|
+% Saving data:
+	S parameters: 0.000125271 s
++0.000168148 s
+++ 9.29864 s
+# END: Mon Aug  7 01:40:45 2023
+
+# START: Mon Aug  7 01:40:56 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0187263 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.815389 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000794258 s
+	1: 2.74343 s
+	2: 2.50954 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0867429 s
++6.17292 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.38414 s
++0.401733 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000228082 s
++0.000266154 s
+++ 6.59403 s
+# END: Mon Aug  7 01:41:03 2023
+
+# START: Mon Aug  7 01:41:44 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0198389 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.825319 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000786493 s
+	1: 2.72553 s
+	2: 2.49978 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0886969 s
++6.15182 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.381613 s
++0.39916 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000221595 s
++0.000262909 s
+++ 6.57145 s
+# END: Mon Aug  7 01:41:51 2023
+
+# START: Mon Aug  7 01:41:58 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0200694 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.812095 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.0047378 s
+	1: 3.15327 s
+	2: 2.56209 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.120255 s
++6.6655 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.497107 s
++0.516213 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000205937 s
++0.000465612 s
+++ 7.20284 s
+# END: Mon Aug  7 01:42:05 2023
+
+# START: Mon Aug  7 01:42:23 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0130835 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.830859 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000779755 s
+	1: 2.78079 s
+	2: 2.57732 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0871382 s
++6.28992 s
+Used RAM: 350 MB |7697|
+% GMRES solution:
++33.1891 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 8.6776e-05 s
++0.000123299 s
+++ 39.4926 s
+# END: Mon Aug  7 01:43:02 2023
+
+# START: Mon Aug  7 01:43:14 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0216273 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.835704 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000752609 s
+	1: 2.77564 s
+	2: 2.61951 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0868341 s
++6.33099 s
+Used RAM: 350 MB |7697|
+% Single precision Complex Solver:
+ / Symmetric
+	Commit memory: 28 MB
+	Factor and Solve: 0.372807 s
++0.383797 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.00024675 s
++0.000286586 s
+++ 6.73706 s
+# END: Mon Aug  7 01:43:21 2023
+
+# START: Mon Aug  7 01:43:53 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0125647 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.809301 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000806196 s
+	1: 2.80347 s
+	2: 2.52917 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0875979 s
++6.24543 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.397736 s
++0.416113 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000212438 s
++0.000472934 s
+++ 6.67523 s
+# END: Mon Aug  7 01:44:00 2023
+
+# START: Mon Aug  7 01:49:51 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0192332 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.778911 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.00142398 s
+	1: 2.62978 s
+	2: 2.42372 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0843879 s
++5.9349 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.345173 s
++0.361606 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000222075 s
++0.000258261 s
+++ 6.3166 s
+# END: Mon Aug  7 01:49:57 2023
+
+# START: Mon Aug  7 01:50:00 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0229655 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.228842 s
+Used RAM: 9 MB |7697|
+On boundaries:
+	PerfE1: 0.00052138 s
+	1: 0.494568 s
+	2: 0.406263 s
+Used RAM: 81 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167283 s
++1.14784 s
+Used RAM: 81 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0624864 s
++0.0640244 s
+Used RAM: 81 MB |7697|
+% Saving data:
+	S parameters: 0.000230483 s
++0.000265514 s
+++ 1.23551 s
+# END: Mon Aug  7 01:50:02 2023
+
+# START: Mon Aug  7 01:50:29 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0196385 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.229568 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000485424 s
+	1: 0.4829 s
+	2: 0.406492 s
+Used RAM: 81 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166641 s
++1.13726 s
+Used RAM: 81 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0616312 s
++0.0631289 s
+Used RAM: 81 MB |7697|
+% Saving data:
+	S parameters: 0.000103777 s
++0.000137134 s
+--- Frequency = 1.09e+10 ---
+% Assembly Symmetric:
+In solids: 0.217696 s
+Used RAM: 81 MB |7697|
+On boundaries:
+	PerfE1: 0.000725235 s
+	1: 0.447346 s
+	2: 0.424199 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016466 s
++1.10682 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.057302 s
++0.058735 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.000232708 s
++0.000494531 s
+--- Frequency = 1.18e+10 ---
+% Assembly Symmetric:
+In solids: 0.219779 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000669081 s
+	1: 0.429367 s
+	2: 0.403082 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162769 s
++1.06971 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0587143 s
++0.0601422 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.000208157 s
++0.00046567 s
+--- Frequency = 1.27e+10 ---
+% Assembly Symmetric:
+In solids: 0.219982 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000727797 s
+	1: 0.444216 s
+	2: 0.419945 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162056 s
++1.1016 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.059502 s
++0.0608551 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.00023384 s
++0.000266452 s
+--- Frequency = 1.36e+10 ---
+% Assembly Symmetric:
+In solids: 0.222799 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000689202 s
+	1: 0.442586 s
+	2: 0.630374 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162703 s
++1.31322 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0562861 s
++0.0577769 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 7.8426e-05 s
++0.000346301 s
+--- Frequency = 1.45e+10 ---
+% Assembly Symmetric:
+In solids: 0.220568 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000713934 s
+	1: 0.426881 s
+	2: 0.417364 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016891 s
++1.08281 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.060217 s
++0.0616518 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.000228382 s
++0.000264099 s
+--- Frequency = 1.54e+10 ---
+% Assembly Symmetric:
+In solids: 0.219258 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000743574 s
+	1: 0.422374 s
+	2: 0.419488 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166822 s
++1.07895 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0594046 s
++0.0608403 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.00022022 s
++0.000255991 s
+--- Frequency = 1.63e+10 ---
+% Assembly Symmetric:
+In solids: 0.219322 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000697422 s
+	1: 0.444124 s
+	2: 0.419059 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163861 s
++1.09999 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0587005 s
++0.0601255 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.000236082 s
++0.000264631 s
+--- Frequency = 1.72e+10 ---
+% Assembly Symmetric:
+In solids: 0.221125 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000693089 s
+	1: 0.440693 s
+	2: 0.402264 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164165 s
++1.08173 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0589358 s
++0.0604198 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.000213114 s
++0.000307702 s
+--- Frequency = 1.81e+10 ---
+% Assembly Symmetric:
+In solids: 0.221773 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000696944 s
+	1: 0.439414 s
+	2: 0.399996 s
+Used RAM: 86 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162149 s
++1.07851 s
+Used RAM: 86 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0585584 s
++0.0599697 s
+Used RAM: 86 MB |7697|
+% Saving data:
+	S parameters: 0.000202163 s
++0.000471431 s
+--- Frequency = 1.9e+10 ---
+% Assembly Symmetric:
+In solids: 0.219139 s
+Used RAM: 86 MB |7697|
+On boundaries:
+	PerfE1: 0.000670686 s
+	1: 0.423142 s
+	2: 0.416867 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165718 s
++1.07693 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0605708 s
++0.0620493 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000213477 s
++0.000472008 s
+--- Frequency = 1.99e+10 ---
+% Assembly Symmetric:
+In solids: 0.219598 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000693011 s
+	1: 0.424134 s
+	2: 0.414714 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162816 s
++1.07597 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0581228 s
++0.0595312 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000222908 s
++0.000258971 s
+--- Frequency = 2.08e+10 ---
+% Assembly Symmetric:
+In solids: 0.219581 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000692814 s
+	1: 0.423607 s
+	2: 0.440119 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166558 s
++1.10106 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.059014 s
++0.0604407 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000219386 s
++0.000303805 s
+--- Frequency = 2.17e+10 ---
+% Assembly Symmetric:
+In solids: 0.219444 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000649998 s
+	1: 0.440997 s
+	2: 0.421121 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167355 s
++1.09948 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0585717 s
++0.0600008 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 8.9259e-05 s
++0.00011985 s
+--- Frequency = 2.26e+10 ---
+% Assembly Symmetric:
+In solids: 0.220706 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000696765 s
+	1: 0.441733 s
+	2: 0.417113 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0161358 s
++1.0968 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0577811 s
++0.0592696 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 7.9535e-05 s
++0.000111897 s
+--- Frequency = 2.35e+10 ---
+% Assembly Symmetric:
+In solids: 0.222087 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.00067547 s
+	1: 0.429756 s
+	2: 0.412685 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163964 s
++1.08201 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0589559 s
++0.060369 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 9.4342e-05 s
++0.000127626 s
+--- Frequency = 2.44e+10 ---
+% Assembly Symmetric:
+In solids: 0.221062 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000723823 s
+	1: 0.43081 s
+	2: 0.40706 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166384 s
++1.07685 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0600001 s
++0.0614614 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.00900011 s
++0.00923441 s
+--- Frequency = 2.53e+10 ---
+% Assembly Symmetric:
+In solids: 0.23899 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000703102 s
+	1: 0.459708 s
+	2: 0.428636 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0171506 s
++1.14737 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0659598 s
++0.0674252 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000211292 s
++0.000240091 s
+--- Frequency = 2.62e+10 ---
+% Assembly Symmetric:
+In solids: 0.22753 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000642666 s
+	1: 0.48202 s
+	2: 0.552523 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164986 s
++1.27959 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0648695 s
++0.0662804 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000217263 s
++0.0002566 s
+--- Frequency = 2.71e+10 ---
+% Assembly Symmetric:
+In solids: 0.262191 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.00070323 s
+	1: 0.505994 s
+	2: 0.404048 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165326 s
++1.18987 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0553737 s
++0.0568181 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 9.3468e-05 s
++0.000130148 s
+--- Frequency = 2.8e+10 ---
+% Assembly Symmetric:
+In solids: 0.219126 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.0194249 s
+	1: 0.434577 s
+	2: 0.39532 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016408 s
++1.08557 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0562787 s
++0.0578233 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 8.3478e-05 s
++0.000118242 s
+--- Frequency = 2.89e+10 ---
+% Assembly Symmetric:
+In solids: 0.284465 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000681668 s
+	1: 0.506244 s
+	2: 0.48624 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0181742 s
++1.2962 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0709974 s
++0.0726809 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000226706 s
++0.000262967 s
+--- Frequency = 2.98e+10 ---
+% Assembly Symmetric:
+In solids: 0.267522 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.00153323 s
+	1: 0.519242 s
+	2: 0.457069 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163782 s
++1.26212 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0555718 s
++0.0570007 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 7.4826e-05 s
++0.00013848 s
+--- Frequency = 3.07e+10 ---
+% Assembly Symmetric:
+In solids: 0.359738 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.0137278 s
+	1: 0.556551 s
+	2: 0.606123 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0182339 s
++1.55478 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0972851 s
++0.0987226 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000215944 s
++0.000474615 s
+--- Frequency = 3.16e+10 ---
+% Assembly Symmetric:
+In solids: 0.337971 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000751139 s
+	1: 0.535587 s
+	2: 0.524986 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.021575 s
++1.42476 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.389703 s
++0.391468 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 7.7875e-05 s
++0.000111307 s
+--- Frequency = 3.25e+10 ---
+% Assembly Symmetric:
+In solids: 0.304256 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000716929 s
+	1: 0.513715 s
+	2: 0.457915 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166091 s
++1.2936 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0682085 s
++0.0697086 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000221561 s
++0.00031403 s
+--- Frequency = 3.34e+10 ---
+% Assembly Symmetric:
+In solids: 0.240552 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000744806 s
+	1: 0.446833 s
+	2: 0.437848 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0169953 s
++1.1435 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0563585 s
++0.0578252 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 7.899e-05 s
++0.000141971 s
+--- Frequency = 3.43e+10 ---
+% Assembly Symmetric:
+In solids: 0.291652 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000762928 s
+	1: 0.44689 s
+	2: 0.461466 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0195488 s
++1.22089 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.223994 s
++0.225432 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 8.118e-05 s
++0.000115733 s
+--- Frequency = 3.52e+10 ---
+% Assembly Symmetric:
+In solids: 0.223761 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000666716 s
+	1: 0.476778 s
+	2: 0.466225 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163526 s
++1.18426 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0572006 s
++0.0586615 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000217217 s
++0.000245724 s
+--- Frequency = 3.61e+10 ---
+% Assembly Symmetric:
+In solids: 0.247201 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.00102513 s
+	1: 0.453513 s
+	2: 0.438586 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0182846 s
++1.16416 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 1.13401 s
++1.1354 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 0.000213239 s
++0.000485272 s
+--- Frequency = 3.7e+10 ---
+% Assembly Symmetric:
+In solids: 0.448347 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000708286 s
+	1: 1.1432 s
+	2: 1.68061 s
+Used RAM: 87 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0174993 s
++3.29077 s
+Used RAM: 87 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0582486 s
++0.0596944 s
+Used RAM: 87 MB |7697|
+% Saving data:
+	S parameters: 9.2709e-05 s
++0.00016939 s
+--- Frequency = 3.79e+10 ---
+% Assembly Symmetric:
+In solids: 0.316581 s
+Used RAM: 87 MB |7697|
+On boundaries:
+	PerfE1: 0.000731446 s
+	1: 0.46168 s
+	2: 0.466491 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0168634 s
++1.26304 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0568087 s
++0.0582904 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 8.4588e-05 s
++0.000168222 s
+--- Frequency = 3.88e+10 ---
+% Assembly Symmetric:
+In solids: 0.251672 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000663391 s
+	1: 0.495704 s
+	2: 0.42776 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166364 s
++1.193 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0570198 s
++0.0585021 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.00021705 s
++0.000245487 s
+--- Frequency = 3.97e+10 ---
+% Assembly Symmetric:
+In solids: 0.376193 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.0255795 s
+	1: 0.472883 s
+	2: 0.538911 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0197564 s
++1.44271 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.171904 s
++0.173568 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000510323 s
++0.000603229 s
+--- Frequency = 4.06e+10 ---
+% Assembly Symmetric:
+In solids: 0.232989 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000696576 s
+	1: 0.628435 s
+	2: 0.515898 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0173644 s
++1.39582 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0598494 s
++0.0613209 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.00023431 s
++0.000271028 s
+--- Frequency = 4.15e+10 ---
+% Assembly Symmetric:
+In solids: 0.237973 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000681059 s
+	1: 0.623932 s
+	2: 0.524122 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167513 s
++1.40415 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0565817 s
++0.0581355 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000212605 s
++0.000252804 s
+--- Frequency = 4.24e+10 ---
+% Assembly Symmetric:
+In solids: 0.225577 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000626615 s
+	1: 0.480879 s
+	2: 0.421616 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167003 s
++1.14601 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.20979 s
++0.211215 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000212281 s
++0.000471105 s
+--- Frequency = 4.33e+10 ---
+% Assembly Symmetric:
+In solids: 0.24285 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000694129 s
+	1: 0.44715 s
+	2: 0.594053 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0224237 s
++1.30771 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.111618 s
++0.113669 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000213087 s
++0.000473323 s
+--- Frequency = 4.42e+10 ---
+% Assembly Symmetric:
+In solids: 0.291094 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000774187 s
+	1: 0.461749 s
+	2: 0.624513 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163796 s
++1.39487 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0718723 s
++0.0732707 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000211177 s
++0.000281142 s
+--- Frequency = 4.51e+10 ---
+% Assembly Symmetric:
+In solids: 0.221541 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000700256 s
+	1: 0.565863 s
+	2: 0.443549 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0173667 s
++1.24942 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0551633 s
++0.0565986 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000208987 s
++0.000304189 s
+--- Frequency = 4.6e+10 ---
+% Assembly Symmetric:
+In solids: 0.217694 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000699924 s
+	1: 0.446678 s
+	2: 0.406275 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167717 s
++1.08855 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0568228 s
++0.0582882 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 9.2512e-05 s
++0.000123415 s
+--- Frequency = 4.69e+10 ---
+% Assembly Symmetric:
+In solids: 0.218804 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000691235 s
+	1: 0.501932 s
+	2: 0.433485 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167141 s
++1.17205 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0689489 s
++0.0704348 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000221822 s
++0.000255311 s
+--- Frequency = 4.78e+10 ---
+% Assembly Symmetric:
+In solids: 0.222975 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000710636 s
+	1: 0.466265 s
+	2: 0.568119 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166855 s
++1.27522 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0559958 s
++0.0574358 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 7.9414e-05 s
++0.000132922 s
+--- Frequency = 4.87e+10 ---
+% Assembly Symmetric:
+In solids: 0.221839 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000702005 s
+	1: 0.47603 s
+	2: 0.442343 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016878 s
++1.15819 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0563778 s
++0.0579449 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 9.2269e-05 s
++0.000122063 s
+--- Frequency = 4.96e+10 ---
+% Assembly Symmetric:
+In solids: 0.219544 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000718545 s
+	1: 0.554316 s
+	2: 0.431365 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0190516 s
++1.23251 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0687012 s
++0.0710883 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 9.3476e-05 s
++0.000138119 s
+--- Frequency = 5.05e+10 ---
+% Assembly Symmetric:
+In solids: 0.219352 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000735978 s
+	1: 0.452208 s
+	2: 0.404813 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016706 s
++1.09419 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0557712 s
++0.057201 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 7.7266e-05 s
++0.000111572 s
+--- Frequency = 5.14e+10 ---
+% Assembly Symmetric:
+In solids: 0.281806 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.00268407 s
+	1: 0.478873 s
+	2: 0.567894 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0189444 s
++1.37028 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0652862 s
++0.0671786 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.000205504 s
++0.000459092 s
+--- Frequency = 5.23e+10 ---
+% Assembly Symmetric:
+In solids: 0.258389 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.00082525 s
+	1: 0.475103 s
+	2: 0.449309 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167138 s
++1.20441 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0607557 s
++0.0622183 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 7.8847e-05 s
++0.000142211 s
+--- Frequency = 5.32e+10 ---
+% Assembly Symmetric:
+In solids: 0.222289 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.00070023 s
+	1: 0.434746 s
+	2: 0.424811 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0168063 s
++1.09983 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0567136 s
++0.0581506 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 9.5783e-05 s
++0.000130184 s
+--- Frequency = 5.41e+10 ---
+% Assembly Symmetric:
+In solids: 0.220076 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000719664 s
+	1: 0.467667 s
+	2: 0.419524 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165726 s
++1.12497 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0554961 s
++0.0570374 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 0.00893994 s
++0.00901344 s
+--- Frequency = 5.5e+10 ---
+% Assembly Symmetric:
+In solids: 0.22038 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000647436 s
+	1: 0.449147 s
+	2: 0.415347 s
+Used RAM: 88 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0181062 s
++1.10412 s
+Used RAM: 88 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0554023 s
++0.0569021 s
+Used RAM: 88 MB |7697|
+% Saving data:
+	S parameters: 9.0828e-05 s
++0.000117391 s
+--- Frequency = 5.59e+10 ---
+% Assembly Symmetric:
+In solids: 0.221194 s
+Used RAM: 88 MB |7697|
+On boundaries:
+	PerfE1: 0.000678805 s
+	1: 0.422646 s
+	2: 0.397916 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0161782 s
++1.05902 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0567232 s
++0.0582431 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.8681e-05 s
++0.000125343 s
+--- Frequency = 5.68e+10 ---
+% Assembly Symmetric:
+In solids: 0.219861 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000661666 s
+	1: 0.440506 s
+	2: 0.396321 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0162849 s
++1.07409 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0564765 s
++0.0580061 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 7.5664e-05 s
++0.000140466 s
+--- Frequency = 5.77e+10 ---
+% Assembly Symmetric:
+In solids: 0.296722 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000695683 s
+	1: 0.534725 s
+	2: 0.468056 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164901 s
++1.31714 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0562712 s
++0.057802 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.8528e-05 s
++0.000154639 s
+--- Frequency = 5.86e+10 ---
+% Assembly Symmetric:
+In solids: 0.272077 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000652132 s
+	1: 0.456404 s
+	2: 0.416419 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166433 s
++1.16274 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0570725 s
++0.0585844 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 9.269e-05 s
++0.000125372 s
+--- Frequency = 5.95e+10 ---
+% Assembly Symmetric:
+In solids: 0.271684 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.00888115 s
+	1: 0.422666 s
+	2: 0.394813 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0168096 s
++1.11526 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.057275 s
++0.0587712 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 7.4495e-05 s
++9.7401e-05 s
+--- Frequency = 6.04e+10 ---
+% Assembly Symmetric:
+In solids: 0.218465 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000736947 s
+	1: 0.443089 s
+	2: 0.397874 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163603 s
++1.07706 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0577216 s
++0.0591828 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 7.6548e-05 s
++9.9646e-05 s
+--- Frequency = 6.13e+10 ---
+% Assembly Symmetric:
+In solids: 0.217773 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000642627 s
+	1: 0.442624 s
+	2: 0.393385 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165756 s
++1.0714 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0583585 s
++0.0598759 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.6448e-05 s
++0.000120886 s
+--- Frequency = 6.22e+10 ---
+% Assembly Symmetric:
+In solids: 0.32915 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.0186875 s
+	1: 0.459937 s
+	2: 0.407394 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0414432 s
++1.25718 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.345265 s
++0.347121 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.6877e-05 s
++0.000109602 s
+--- Frequency = 6.31e+10 ---
+% Assembly Symmetric:
+In solids: 0.258275 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.00241003 s
+	1: 0.425428 s
+	2: 0.407441 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164806 s
++1.1104 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0577604 s
++0.0592183 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 7.7197e-05 s
++0.000103084 s
+--- Frequency = 6.4e+10 ---
+% Assembly Symmetric:
+In solids: 0.283394 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000666343 s
+	1: 0.462374 s
+	2: 0.406327 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0181372 s
++1.17127 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.28481 s
++0.28648 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 7.8175e-05 s
++0.000373313 s
+--- Frequency = 6.49e+10 ---
+% Assembly Symmetric:
+In solids: 0.244366 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000688061 s
+	1: 0.482617 s
+	2: 0.420774 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167473 s
++1.16577 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0588366 s
++0.0603326 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.2362e-05 s
++0.000171097 s
+--- Frequency = 6.58e+10 ---
+% Assembly Symmetric:
+In solids: 0.221007 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000664578 s
+	1: 0.440618 s
+	2: 0.416427 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016459 s
++1.09556 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0580822 s
++0.0595266 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 9.7305e-05 s
++0.000123747 s
+--- Frequency = 6.67e+10 ---
+% Assembly Symmetric:
+In solids: 0.223201 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000694984 s
+	1: 0.494952 s
+	2: 0.61183 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0197347 s
++1.35108 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0957455 s
++0.0979239 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 0.000217449 s
++0.000480342 s
+--- Frequency = 6.76e+10 ---
+% Assembly Symmetric:
+In solids: 0.256963 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000680764 s
+	1: 0.468767 s
+	2: 0.454919 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164706 s
++1.19834 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0586304 s
++0.0601499 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.4402e-05 s
++0.000117703 s
+--- Frequency = 6.85e+10 ---
+% Assembly Symmetric:
+In solids: 0.219638 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000731086 s
+	1: 0.46861 s
+	2: 0.548699 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0703185 s
++1.33422 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 1.18269 s
++1.18446 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.4684e-05 s
++0.000106773 s
+--- Frequency = 6.94e+10 ---
+% Assembly Symmetric:
+In solids: 0.43334 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.0182388 s
+	1: 2.12153 s
+	2: 0.911421 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164648 s
++3.50591 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0740962 s
++0.0756954 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 0.000218357 s
++0.00047623 s
+--- Frequency = 7.03e+10 ---
+% Assembly Symmetric:
+In solids: 0.222334 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000654532 s
+	1: 0.77199 s
+	2: 0.645814 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166315 s
++1.658 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0577108 s
++0.0591788 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 8.0012e-05 s
++0.000114384 s
+--- Frequency = 7.12e+10 ---
+% Assembly Symmetric:
+In solids: 0.225183 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000718361 s
+	1: 0.450331 s
+	2: 0.424887 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016713 s
++1.11823 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0624571 s
++0.0638795 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 7.7592e-05 s
++0.000108961 s
+--- Frequency = 7.21e+10 ---
+% Assembly Symmetric:
+In solids: 0.266619 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.00073215 s
+	1: 0.614204 s
+	2: 0.418784 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166407 s
++1.31753 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.194775 s
++0.19643 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 7.7716e-05 s
++0.000100785 s
+--- Frequency = 7.3e+10 ---
+% Assembly Symmetric:
+In solids: 0.25244 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000650939 s
+	1: 0.468315 s
+	2: 0.496625 s
+Used RAM: 89 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165416 s
++1.23493 s
+Used RAM: 89 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0584136 s
++0.0598697 s
+Used RAM: 89 MB |7697|
+% Saving data:
+	S parameters: 9.425e-05 s
++0.000131079 s
+--- Frequency = 7.39e+10 ---
+% Assembly Symmetric:
+In solids: 0.247982 s
+Used RAM: 89 MB |7697|
+On boundaries:
+	PerfE1: 0.000649385 s
+	1: 0.570168 s
+	2: 0.529462 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0184836 s
++1.37193 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.114353 s
++0.116026 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 0.000204466 s
++0.000462652 s
+--- Frequency = 7.48e+10 ---
+% Assembly Symmetric:
+In solids: 0.258187 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000723057 s
+	1: 0.502633 s
+	2: 0.426765 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0170958 s
++1.20582 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0653757 s
++0.0669344 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 7.7187e-05 s
++0.00015671 s
+--- Frequency = 7.57e+10 ---
+% Assembly Symmetric:
+In solids: 0.219934 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000706685 s
+	1: 0.460077 s
+	2: 0.419976 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0169578 s
++1.11812 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0610174 s
++0.06254 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 0.000177063 s
++0.00021176 s
+--- Frequency = 7.66e+10 ---
+% Assembly Symmetric:
+In solids: 0.225045 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000687703 s
+	1: 0.439028 s
+	2: 0.413429 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167333 s
++1.09545 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0613081 s
++0.0627615 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 0.000117111 s
++0.000141574 s
+--- Frequency = 7.75e+10 ---
+% Assembly Symmetric:
+In solids: 0.225754 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000694132 s
+	1: 0.462456 s
+	2: 0.418832 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163216 s
++1.12453 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0596908 s
++0.0611441 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 7.8815e-05 s
++0.000105484 s
+--- Frequency = 7.84e+10 ---
+% Assembly Symmetric:
+In solids: 0.221653 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.00070563 s
+	1: 0.4527 s
+	2: 0.403587 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164441 s
++1.09547 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0597941 s
++0.0612537 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 8.2093e-05 s
++0.000110326 s
+--- Frequency = 7.93e+10 ---
+% Assembly Symmetric:
+In solids: 0.225606 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000707542 s
+	1: 0.43701 s
+	2: 0.418917 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164482 s
++1.09908 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0577319 s
++0.0591769 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 8.0953e-05 s
++0.00011449 s
+--- Frequency = 8.02e+10 ---
+% Assembly Symmetric:
+In solids: 0.220284 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000657328 s
+	1: 0.443113 s
+	2: 0.411596 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165832 s
++1.09262 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0583094 s
++0.0597366 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 7.9258e-05 s
++0.00011196 s
+--- Frequency = 8.11e+10 ---
+% Assembly Symmetric:
+In solids: 0.219811 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000687385 s
+	1: 0.442463 s
+	2: 0.413306 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163394 s
++1.09298 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0598668 s
++0.0613671 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 7.6559e-05 s
++0.000109806 s
+--- Frequency = 8.2e+10 ---
+% Assembly Symmetric:
+In solids: 0.222237 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000680355 s
+	1: 0.439331 s
+	2: 0.39602 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163539 s
++1.07501 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0590511 s
++0.0605081 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 8.6239e-05 s
++0.000115113 s
+--- Frequency = 8.29e+10 ---
+% Assembly Symmetric:
+In solids: 0.221437 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000699269 s
+	1: 0.444199 s
+	2: 0.397199 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164269 s
++1.08035 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0573598 s
++0.0588057 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 7.7988e-05 s
++0.000111869 s
+--- Frequency = 8.38e+10 ---
+% Assembly Symmetric:
+In solids: 0.222336 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.0006677 s
+	1: 0.426457 s
+	2: 0.397744 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164771 s
++1.06406 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0605168 s
++0.0619823 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 8.6691e-05 s
++0.000115035 s
+--- Frequency = 8.47e+10 ---
+% Assembly Symmetric:
+In solids: 0.220558 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000727242 s
+	1: 0.424595 s
+	2: 0.39618 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167367 s
++1.05918 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0587278 s
++0.060256 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 8.3983e-05 s
++0.000113017 s
+--- Frequency = 8.56e+10 ---
+% Assembly Symmetric:
+In solids: 0.221482 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000723561 s
+	1: 0.44197 s
+	2: 0.396734 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0163996 s
++1.07769 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0585293 s
++0.0599475 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 8.9402e-05 s
++0.000125988 s
+--- Frequency = 8.65e+10 ---
+% Assembly Symmetric:
+In solids: 0.220834 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000881248 s
+	1: 0.43419 s
+	2: 0.399351 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167854 s
++1.07243 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0623074 s
++0.06384 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 9.4504e-05 s
++0.000123774 s
+--- Frequency = 8.74e+10 ---
+% Assembly Symmetric:
+In solids: 0.223372 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000705433 s
+	1: 0.474776 s
+	2: 0.40408 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165194 s
++1.11987 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0581321 s
++0.059565 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 0.000213086 s
++0.000241291 s
+--- Frequency = 8.83e+10 ---
+% Assembly Symmetric:
+In solids: 0.219773 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.00069533 s
+	1: 0.479802 s
+	2: 0.421354 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165636 s
++1.13859 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0579328 s
++0.0593583 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 7.6272e-05 s
++0.00010636 s
+--- Frequency = 8.92e+10 ---
+% Assembly Symmetric:
+In solids: 0.22246 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000697679 s
+	1: 0.443047 s
+	2: 0.394784 s
+Used RAM: 90 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164934 s
++1.07788 s
+Used RAM: 90 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0598014 s
++0.0612362 s
+Used RAM: 90 MB |7697|
+% Saving data:
+	S parameters: 7.7235e-05 s
++0.000111668 s
+--- Frequency = 9.01e+10 ---
+% Assembly Symmetric:
+In solids: 0.219406 s
+Used RAM: 90 MB |7697|
+On boundaries:
+	PerfE1: 0.000625345 s
+	1: 0.441494 s
+	2: 0.415207 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0166168 s
++1.09372 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0691587 s
++0.0707155 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000235987 s
++0.000594974 s
+--- Frequency = 9.1e+10 ---
+% Assembly Symmetric:
+In solids: 0.237845 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000695434 s
+	1: 0.49352 s
+	2: 0.41841 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0175394 s
++1.16856 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0681438 s
++0.069618 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000222476 s
++0.000250321 s
+--- Frequency = 9.19e+10 ---
+% Assembly Symmetric:
+In solids: 0.286523 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.00247059 s
+	1: 0.557664 s
+	2: 0.506888 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0173636 s
++1.37129 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0685135 s
++0.0699379 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000218258 s
++0.000245621 s
+--- Frequency = 9.28e+10 ---
+% Assembly Symmetric:
+In solids: 0.221499 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000682486 s
+	1: 0.443712 s
+	2: 0.406223 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0168391 s
++1.08932 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.058531 s
++0.0600449 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000252421 s
++0.000285668 s
+--- Frequency = 9.37e+10 ---
+% Assembly Symmetric:
+In solids: 0.276488 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000719085 s
+	1: 0.47062 s
+	2: 0.441046 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167339 s
++1.20619 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0641535 s
++0.0656402 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000233524 s
++0.000493507 s
+--- Frequency = 9.46e+10 ---
+% Assembly Symmetric:
+In solids: 0.222146 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000680092 s
+	1: 0.431824 s
+	2: 0.407754 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0168199 s
++1.07976 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.058685 s
++0.0601438 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000107957 s
++0.000140782 s
+--- Frequency = 9.55e+10 ---
+% Assembly Symmetric:
+In solids: 0.238594 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000687749 s
+	1: 0.969524 s
+	2: 2.8464 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0183599 s
++4.07416 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.124499 s
++0.126083 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000233385 s
++0.000282594 s
+--- Frequency = 9.64e+10 ---
+% Assembly Symmetric:
+In solids: 0.270693 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000744601 s
+	1: 0.639122 s
+	2: 0.465563 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165025 s
++1.39313 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0591964 s
++0.0606536 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000251464 s
++0.000288779 s
+--- Frequency = 9.73e+10 ---
+% Assembly Symmetric:
+In solids: 0.298469 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000716795 s
+	1: 0.592062 s
+	2: 0.403097 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0160629 s
++1.312 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0631438 s
++0.0646955 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000221241 s
++0.000257308 s
+--- Frequency = 9.82e+10 ---
+% Assembly Symmetric:
+In solids: 0.231731 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000710365 s
+	1: 0.425035 s
+	2: 0.418693 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.016632 s
++1.09317 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0590945 s
++0.0606185 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000213289 s
++0.000241283 s
+--- Frequency = 9.91e+10 ---
+% Assembly Symmetric:
+In solids: 0.222174 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000665075 s
+	1: 0.421353 s
+	2: 0.638725 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165978 s
++1.29987 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0584496 s
++0.0599003 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000210269 s
++0.000237926 s
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.222984 s
+Used RAM: 91 MB |7697|
+On boundaries:
+	PerfE1: 0.000642489 s
+	1: 0.443368 s
+	2: 0.427933 s
+Used RAM: 91 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0227121 s
++1.122 s
+Used RAM: 91 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0612001 s
++0.0628102 s
+Used RAM: 91 MB |7697|
+% Saving data:
+	S parameters: 0.000538286 s
++0.000797384 s
+++ 136.907 s
+# END: Mon Aug  7 01:52:46 2023
+
+# START: Mon Aug  7 14:29:34 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 2
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0588528 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.00847455 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000356841 s
+	1: 0.02875 s
+	2: 0.0195529 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.00192559 s
++0.0592967 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00712725 s
++0.00776546 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 0.00050965 s
++0.00154075 s
+++ 0.128219 s
+# END: Mon Aug  7 14:29:34 2023
+
+# START: Mon Aug  7 14:29:47 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 2
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0682729 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.220226 s
+Used RAM: 9 MB |7697|
+On boundaries:
+	PerfE1: 0.000481475 s
+	1: 0.484372 s
+	2: 0.401179 s
+Used RAM: 82 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0361338 s
++1.14295 s
+Used RAM: 82 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.0811729 s
++0.0829534 s
+Used RAM: 82 MB |7697|
+% Saving data:
+	S parameters: 6.5823e-05 s
++0.000131244 s
+++ 1.29465 s
+# END: Mon Aug  7 14:29:48 2023
+
+# START: Mon Aug  7 14:30:02 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 2
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0721617 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.221649 s
+Used RAM: 9 MB |7697|
+On boundaries:
+	PerfE1: 0.000567809 s
+	1: 0.477832 s
+	2: 0.397855 s
+Used RAM: 82 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0169831 s
++1.1156 s
+Used RAM: 82 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0617495 s
++0.0633105 s
+Used RAM: 82 MB |7697|
+% Saving data:
+	S parameters: 6.5627e-05 s
++0.000131189 s
+++ 1.2516 s
+# END: Mon Aug  7 14:30:04 2023
+
+# START: Wed Aug  9 02:27:10 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0298159 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0175507 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000516261 s
+	1: 0.0280726 s
+	2: 0.0204147 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.00180442 s
++0.0686747 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00638072 s
++0.00690138 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 0.00159926 s
++0.00169606 s
+++ 0.107623 s
+# END: Wed Aug  9 02:27:10 2023
+
+# START: Wed Aug  9 02:27:14 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0142513 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0107365 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000364782 s
+	1: 0.0315737 s
+	2: 0.0207587 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00165367 s
++0.0656397 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0076902 s
++0.00829233 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 0.000100755 s
++0.000409884 s
+++ 0.0892291 s
+# END: Wed Aug  9 02:27:14 2023
+
+# START: Wed Aug  9 02:27:18 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0182051 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0182345 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000415587 s
+	1: 0.0296288 s
+	2: 0.0204757 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.0017426 s
++0.0709724 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0045027 s
++0.00495934 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 0.000920939 s
++0.00101253 s
+++ 0.0956517 s
+# END: Wed Aug  9 02:27:18 2023
+
+# START: Wed Aug  9 02:27:24 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0186044 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.229447 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000535546 s
+	1: 0.49137 s
+	2: 0.40647 s
+Used RAM: 81 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0165808 s
++1.14551 s
+Used RAM: 81 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0628751 s
++0.0644136 s
+Used RAM: 81 MB |7697|
+% Saving data:
+	S parameters: 0.000893477 s
++0.000967176 s
+++ 1.23 s
+# END: Wed Aug  9 02:27:25 2023
+
+# START: Wed Aug  9 02:31:03 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0207531 s
+Used RAM: 3 MB |7697|
+--- Frequency = 0 ---
+% Assembly Electrostatic:
+In solids: 0.00747083 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000542732 s
+### ERROR: Null Right Hand Side ###
+# END: Wed Aug  9 02:31:03 2023
+
+# START: Wed Aug  9 02:31:10 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0688757 s
+Used RAM: 4 MB |7697|
+--- Frequency = 0 ---
+% Assembly Electrostatic:
+In solids: 0.00530357 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000337632 s
+### ERROR: Null Right Hand Side ###
+# END: Wed Aug  9 02:31:10 2023
+
+# START: Wed Aug  9 02:31:17 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0508635 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0129614 s
+Used RAM: 5 MB |7697|
+On boundaries:
+	PerfE1: 0.00051766 s
+	1: 0.0706948 s
+	2: 0.0325545 s
+Used RAM: 18 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.0019626 s
++0.119046 s
+Used RAM: 18 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00354985 s
++0.00398047 s
+Used RAM: 18 MB |7697|
+% Saving data:
+	S parameters: 0.000127184 s
++0.000163406 s
+++ 0.174279 s
+# END: Wed Aug  9 02:31:17 2023
+
+# START: Wed Aug  9 02:31:24 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.057609 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+12 ---
+% Assembly Symmetric:
+In solids: 0.0102528 s
+Used RAM: 5 MB |7697|
+On boundaries:
+	PerfE1: 0.000504109 s
+	1: 0.0391645 s
+	2: 0.0275586 s
+Used RAM: 18 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.001747 s
++0.0795788 s
+Used RAM: 18 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00386665 s
++0.00425013 s
+Used RAM: 18 MB |7697|
+% Saving data:
+	S parameters: 0.000118899 s
++0.0001619 s
+++ 0.14185 s
+# END: Wed Aug  9 02:31:24 2023
+
+# START: Wed Aug  9 02:31:33 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0411045 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.00960808 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000503484 s
+	1: 0.04498 s
+	2: 0.0404872 s
+Used RAM: 18 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00197065 s
++0.0979607 s
+Used RAM: 18 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00334131 s
++0.00376788 s
+Used RAM: 18 MB |7697|
+% Saving data:
+	S parameters: 0.000118534 s
++0.000180873 s
+++ 0.143275 s
+# END: Wed Aug  9 02:31:34 2023
+
+# START: Wed Aug  9 02:31:40 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0618379 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+13 ---
+% Assembly Symmetric:
+In solids: 0.0100363 s
+Used RAM: 5 MB |7697|
+On boundaries:
+	PerfE1: 0.000536178 s
+	1: 0.0566623 s
+	2: 0.0256338 s
+Used RAM: 18 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.0018512 s
++0.0950816 s
+Used RAM: 18 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00383721 s
++0.0042742 s
+Used RAM: 18 MB |7697|
+% Saving data:
+	S parameters: 0.000129497 s
++0.000179624 s
+++ 0.161612 s
+# END: Wed Aug  9 02:31:40 2023
+
+# START: Wed Aug  9 02:31:45 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0565334 s
+Used RAM: 4 MB |7697|
+--- Frequency = 1e+12 ---
+% Assembly Symmetric:
+In solids: 0.00958012 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000661981 s
+	1: 0.0615901 s
+	2: 0.0364663 s
+Used RAM: 17 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00225824 s
++0.110998 s
+Used RAM: 17 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00503469 s
++0.00551532 s
+Used RAM: 17 MB |7697|
+% Saving data:
+	S parameters: 0.000173259 s
++0.000209996 s
+++ 0.173589 s
+# END: Wed Aug  9 02:31:45 2023
+
+# START: Wed Aug  9 02:31:54 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00679994 s
+Used RAM: 3 MB |7697|
+--- Frequency = 10 ---
+% Assembly Symmetric:
+In solids: 0.223463 s
+Used RAM: 9 MB |7697|
+On boundaries:
+	PerfE1: 0.000634941 s
+	1: 1.30159 s
+	2: 1.08322 s
+Used RAM: 85 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0151585 s
++2.62491 s
+Used RAM: 85 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.120939 s
++0.122406 s
+Used RAM: 85 MB |7697|
+% Saving data:
+	S parameters: 0.000148118 s
++0.000225273 s
+++ 2.75467 s
+# END: Wed Aug  9 02:31:56 2023
+
+# START: Wed Aug  9 02:32:05 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0179833 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+12 ---
+% Assembly Symmetric:
+In solids: 0.232549 s
+Used RAM: 9 MB |7697|
+On boundaries:
+	PerfE1: 0.000585006 s
+	1: 0.546398 s
+	2: 0.459536 s
+Used RAM: 85 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164951 s
++1.25683 s
+Used RAM: 85 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.099406 s
++0.100777 s
+Used RAM: 85 MB |7697|
+% Saving data:
+	S parameters: 0.000109973 s
++0.000144919 s
+++ 1.37628 s
+# END: Wed Aug  9 02:32:06 2023
+
+# START: Wed Aug  9 02:32:22 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0197248 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.779399 s
+Used RAM: 31 MB |7697|
+On boundaries:
+	PerfE1: 0.00101584 s
+	1: 2.80575 s
+	2: 2.59229 s
+Used RAM: 354 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0794438 s
++6.27212 s
+Used RAM: 354 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.523481 s
++0.539586 s
+Used RAM: 354 MB |7697|
+% Saving data:
+	S parameters: 9.7137e-05 s
++0.000123491 s
+++ 6.8319 s
+# END: Wed Aug  9 02:32:29 2023
+
+# START: Wed Aug  9 02:32:46 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0205095 s
+Used RAM: 3 MB |7697|
+--- Frequency = 5e+11 ---
+% Assembly Symmetric:
+In solids: 0.788488 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000760022 s
+	1: 2.63232 s
+	2: 2.43968 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0862524 s
++5.96276 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.351422 s
++0.36834 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 0.000654311 s
++0.00106243 s
+++ 6.3534 s
+# END: Wed Aug  9 02:32:53 2023
+
+# START: Wed Aug  9 02:33:04 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0203155 s
+Used RAM: 3 MB |7697|
+--- Frequency = 5e+11 ---
+% Assembly Symmetric:
+In solids: 0.241787 s
+Used RAM: 9 MB |7697|
+On boundaries:
+	PerfE1: 0.000500798 s
+	1: 0.50302 s
+	2: 0.401534 s
+Used RAM: 81 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0167592 s
++1.1647 s
+Used RAM: 81 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0653543 s
++0.0668979 s
+Used RAM: 81 MB |7697|
+% Saving data:
+	S parameters: 0.000195792 s
++0.000248872 s
+++ 1.25268 s
+# END: Wed Aug  9 02:33:05 2023
+
+# START: Wed Aug  9 02:33:09 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0200803 s
+Used RAM: 3 MB |7697|
+--- Frequency = 5e+11 ---
+% Assembly Symmetric:
+In solids: 0.0159316 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000349787 s
+	1: 0.0342786 s
+	2: 0.0202268 s
+Used RAM: 14 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00169139 s
++0.0728422 s
+Used RAM: 14 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0045529 s
++0.00500307 s
+Used RAM: 14 MB |7697|
+% Saving data:
+	S parameters: 0.000100645 s
++0.00017488 s
+++ 0.0985015 s
+# END: Wed Aug  9 02:33:10 2023
+
+# START: Wed Aug  9 02:33:14 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0211315 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.017968 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000364521 s
+	1: 0.0334589 s
+	2: 0.0207382 s
+Used RAM: 14 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00173852 s
++0.0746925 s
+Used RAM: 14 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00473633 s
++0.00523871 s
+Used RAM: 14 MB |7697|
+% Saving data:
+	S parameters: 0.000102311 s
++0.00019307 s
+++ 0.101802 s
+# END: Wed Aug  9 02:33:14 2023
+
+# START: Wed Aug  9 02:33:19 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0208141 s
+Used RAM: 3 MB |7697|
+--- Frequency = 5e+10 ---
+% Assembly Symmetric:
+In solids: 0.0175358 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000371496 s
+	1: 0.03372 s
+	2: 0.020408 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00170736 s
++0.0741905 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00438844 s
++0.00489344 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 0.00121641 s
++0.00130735 s
+++ 0.101832 s
+# END: Wed Aug  9 02:33:19 2023
+
+# START: Wed Aug  9 02:33:23 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.019888 s
+Used RAM: 3 MB |7697|
+--- Frequency = 7e+10 ---
+% Assembly Symmetric:
+In solids: 0.0186819 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000363431 s
+	1: 0.0358197 s
+	2: 0.0212263 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 775,  0.00162895 s
++0.0784791 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00450835 s
++0.0050972 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 0.000649579 s
++0.000974685 s
+++ 0.105237 s
+# END: Wed Aug  9 02:33:23 2023
+
+# START: Wed Aug  9 02:33:27 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0213793 s
+Used RAM: 3 MB |7697|
+--- Frequency = 7e+10 ---
+% Assembly Symmetric:
+In solids: 0.229456 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000507476 s
+	1: 0.491168 s
+	2: 0.405633 s
+Used RAM: 81 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0175667 s
++1.14516 s
+Used RAM: 81 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0649112 s
++0.0664637 s
+Used RAM: 81 MB |7697|
+% Saving data:
+	S parameters: 0.000284508 s
++0.00035261 s
+++ 1.23381 s
+# END: Wed Aug  9 02:33:28 2023
+
+# START: Thu Aug 10 22:32:36 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: GitHub/models/WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00697718 s
+Used RAM: 3 MB |7697|
+--- Frequency = 7e+10 ---
+% Assembly Symmetric:
+In solids: 0.239334 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000512411 s
+	1: 0.495926 s
+	2: 0.445381 s
+Used RAM: 81 MB |7697|
+Finishing:
+	SYS DoF = 4844,  0.0164832 s
++1.19839 s
+Used RAM: 81 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 11 MB
+	Factor and Solve: 0.0643554 s
++0.0659252 s
+Used RAM: 81 MB |7697|
+% Saving data:
+	S parameters: 0.00947836 s
++0.00958362 s
+++ 1.28123 s
+# END: Thu Aug 10 22:32:38 2023
+
+# START: Sat Aug 26 09:28:00 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0184563 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0146084 s
+Used RAM: 3 MB |7697|
+On boundaries:
+	PerfE1: 0.000474807 s
+	1: 0.0310554 s
+	2: 0.0211366 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.00179495 s
++0.069386 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0142697 s
++0.0169508 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 0.000249137 s
++0.000289623 s
+++ 0.106363 s
+# END: Sat Aug 26 09:28:00 2023
+
+# START: Sat Aug 26 09:28:10 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00687677 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0121419 s
+Used RAM: 3 MB |7697|
+On boundaries:
+	PerfE1: 0.00220441 s
+	1: 0.0280073 s
+	2: 0.0214022 s
+Used RAM: 13 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.00176829 s
++0.0657106 s
+Used RAM: 13 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0109348 s
++0.0114316 s
+Used RAM: 13 MB |7697|
+% Saving data:
+	S parameters: 6.5635e-05 s
++0.000136412 s
+++ 0.0844043 s
+# END: Sat Aug 26 09:28:10 2023
+
+# START: Sat Aug 26 09:28:25 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0128823 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0177665 s
+Used RAM: 4 MB |7697|
+On boundaries:
+	PerfE1: 0.000351901 s
+	1: 0.0229536 s
+	2: 0.0189797 s
+Used RAM: 11 MB |7697|
+Finishing:
+	SYS DoF = 1112,  0.00239074 s
++0.062634 s
+Used RAM: 11 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00552981 s
++0.00606341 s
+Used RAM: 11 MB |7697|
+% Saving data:
+	S parameters: 0.000113197 s
++0.000148774 s
+++ 0.0819721 s
+# END: Sat Aug 26 09:28:26 2023
+
+# START: Sat Aug 26 09:28:32 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00675089 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.394617 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000369757 s
+	1: 0.569708 s
+	2: 0.4941 s
+Used RAM: 78 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0581082 s
++1.51727 s
+Used RAM: 78 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.0630977 s
++0.0645395 s
+Used RAM: 78 MB |7697|
+% Saving data:
+	S parameters: 7.9963e-05 s
++0.000109032 s
+++ 1.58894 s
+# END: Sat Aug 26 09:28:34 2023
+
+# START: Sat Aug 26 09:28:40 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 2, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00818371 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.231694 s
+Used RAM: 8 MB |7697|
+On boundaries:
+	PerfE1: 0.000532269 s
+	1: 0.478638 s
+	2: 0.4007 s
+Used RAM: 81 MB |7697|
+Finishing:
+	SYS DoF = 6004,  0.0413094 s
++1.15345 s
+Used RAM: 81 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 12 MB
+	Factor and Solve: 0.0818914 s
++0.0840406 s
+Used RAM: 81 MB |7697|
+% Saving data:
+	S parameters: 6.5978e-05 s
++0.000131395 s
+++ 1.24617 s
+# END: Sat Aug 26 09:28:41 2023
+
+# START: Sat Aug 26 09:28:47 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00635436 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.777575 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000695009 s
+	1: 2.64093 s
+	2: 2.39501 s
+Used RAM: 349 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.119339 s
++5.94676 s
+Used RAM: 349 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.43429 s
++0.455031 s
+Used RAM: 349 MB |7697|
+% Saving data:
+	S parameters: 6.8982e-05 s
++0.000306827 s
+++ 6.40895 s
+# END: Sat Aug 26 09:28:54 2023
+
+# START: Sat Aug 26 09:29:00 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0205543 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.42483 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000518052 s
+	1: 3.67911 s
+	2: 3.39085 s
+Used RAM: 346 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.162608 s
++8.67278 s
+Used RAM: 346 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.381962 s
++0.401104 s
+Used RAM: 346 MB |7697|
+% Saving data:
+	S parameters: 0.000108682 s
++0.000145811 s
+++ 9.09508 s
+# END: Sat Aug 26 09:29:09 2023
+
+# START: Sat Aug 26 09:29:58 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00561765 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.78051 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000858332 s
+	1: 2.65528 s
+	2: 2.43979 s
+Used RAM: 352 MB |7697|
+Finishing:
+	SYS DoF = 17499,  0.114117 s
++6.00294 s
+Used RAM: 352 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 60 MB
+	Factor and Solve: 0.517844 s
++0.536847 s
+Used RAM: 352 MB |7697|
+% Saving data:
+	S parameters: 6.472e-05 s
++9.4979e-05 s
+++ 6.54575 s
+# END: Sat Aug 26 09:30:05 2023
+
+# START: Sat Aug 26 09:30:27 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0178546 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.786132 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000905334 s
+	1: 2.63831 s
+	2: 2.50729 s
+Used RAM: 352 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0801383 s
++6.02794 s
+Used RAM: 352 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.424143 s
++0.441719 s
+Used RAM: 352 MB |7697|
+% Saving data:
+	S parameters: 6.3008e-05 s
++8.4132e-05 s
+++ 6.48803 s
+# END: Sat Aug 26 09:30:34 2023
+
+# START: Sat Aug 26 09:30:43 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0180938 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 1.44032 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000501301 s
+	1: 3.65144 s
+	2: 3.44082 s
+Used RAM: 346 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0808553 s
++8.62895 s
+Used RAM: 346 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.299458 s
++0.315651 s
+Used RAM: 346 MB |7697|
+% Saving data:
+	S parameters: 6.9739e-05 s
++9.8169e-05 s
+++ 8.96324 s
+# END: Sat Aug 26 09:30:52 2023
+
+# START: Sat Aug 26 09:31:19 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0179162 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 1.43977 s
+Used RAM: 29 MB |7697|
+On boundaries:
+	PerfE1: 0.000517417 s
+	1: 3.66319 s
+	2: 3.39517 s
+Used RAM: 346 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0805644 s
++8.59403 s
+Used RAM: 346 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.30517 s
++0.320984 s
+Used RAM: 346 MB |7697|
+% Saving data:
+	S parameters: 8.2246e-05 s
++0.000114351 s
+++ 8.93348 s
+# END: Sat Aug 26 09:31:28 2023
+
+# START: Sat Aug 26 09:31:45 2023
+Machine = latitude (ntilau)
+Memory  = 7697 MB
+Cores   = 4% Loading files:
+Project: WR10
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0073625 s
+Used RAM: 3 MB |7697|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.766381 s
+Used RAM: 30 MB |7697|
+On boundaries:
+	PerfE1: 0.000723663 s
+	1: 2.59107 s
+	2: 2.37638 s
+Used RAM: 350 MB |7697|
+Finishing:
+	SYS DoF = 15032,  0.0862151 s
++5.83518 s
+Used RAM: 350 MB |7697|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.345194 s
++0.362136 s
+Used RAM: 350 MB |7697|
+% Saving data:
+	S parameters: 7.0836e-05 s
++0.000308483 s
+++ 6.20549 s
+# END: Sat Aug 26 09:31:51 2023
+
+# START: Sat Jun  7 21:15:37 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00674213 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.097567 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00237231 s
+	1: 0.0600635 s
+	2: 0.030295 s
+Used RAM: 13 MB |7407|
+Finishing:
+	SYS DoF = 1112,  0.0121133 s
++0.202977 s
+Used RAM: 13 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.00428944 s
++0.00760438 s
+Used RAM: 13 MB |7407|
+% Saving data:
+	S parameters: 0.00115909 s
++0.0011816 s
+++ 0.219611 s
+# END: Sat Jun  7 21:15:37 2025
+
+# START: Sat Jun  7 21:16:14 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0050308 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0738288 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.0046251 s
+	1: 0.0637494 s
+	2: 0.0305012 s
+Used RAM: 13 MB |7407|
+Finishing:
+	SYS DoF = 1112,  0.0168654 s
++0.189889 s
+Used RAM: 13 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0126019 s
++0.0180677 s
+Used RAM: 13 MB |7407|
+% Saving data:
+	S parameters: 0.0106233 s
++0.0108317 s
+++ 0.230807 s
+# END: Sat Jun  7 21:16:14 2025
+
+# START: Sat Jun  7 21:16:18 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00472225 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.060062 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00392504 s
+	1: 0.0625875 s
+	2: 0.0642042 s
+Used RAM: 13 MB |7407|
+Finishing:
+	SYS DoF = 775,  0.0170701 s
++0.214068 s
+Used RAM: 13 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.011338 s
++0.0124756 s
+Used RAM: 13 MB |7407|
+% Saving data:
+	S parameters: 0.00026507 s
++0.00104217 s
+++ 0.236344 s
+# END: Sat Jun  7 21:16:19 2025
+
+# START: Sat Jun  7 21:16:23 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00302275 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 2.46884 s
+Used RAM: 31 MB |7407|
+On boundaries:
+	PerfE1: 0.00174091 s
+	1: 3.09583 s
+	2: 2.72398 s
+Used RAM: 347 MB |7407|
+Finishing:
+	SYS DoF = 15032,  0.419968 s
++8.71984 s
+Used RAM: 347 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 53 MB
+	Factor and Solve: 0.26723 s
++0.28955 s
+Used RAM: 347 MB |7407|
+% Saving data:
+	S parameters: 0.000355322 s
++0.000577251 s
+++ 9.0134 s
+# END: Sat Jun  7 21:16:32 2025
+
+# START: Sat Jun  7 21:16:50 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00787714 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.061966 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00154922 s
+	1: 0.11175 s
+	2: 0.0330072 s
+Used RAM: 13 MB |7407|
+Finishing:
+	SYS DoF = 775,  0.0126257 s
++0.223416 s
+Used RAM: 13 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 1 MB
+	Factor and Solve: 0.0145563 s
++0.0153948 s
+Used RAM: 13 MB |7407|
+% Saving data:
+	S parameters: 0.00120594 s
++0.00132492 s
+++ 0.248555 s
+# END: Sat Jun  7 21:16:51 2025
+
+# START: Sat Jun  7 22:06:06 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00642489 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 2.43998 s
+Used RAM: 32 MB |7407|
+On boundaries:
+	PerfE1: 0.00174555 s
+	1: 3.02457 s
+	2: 3.89077 s
+Used RAM: 338 MB |7407|
+Finishing:
+	SYS DoF = 15032,  0.420346 s
++9.78449 s
+Used RAM: 338 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.22509 s
++0.244089 s
+Used RAM: 338 MB |7407|
+% Saving data:
+	S parameters: 0.000443001 s
++0.00373222 s
+++ 10.0428 s
+# END: Sat Jun  7 22:06:16 2025
+
+# START: Sat Jun  7 22:07:08 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00398238 s
+Used RAM: 5 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 2.49164 s
+Used RAM: 32 MB |7407|
+On boundaries:
+	PerfE1: 0.00178746 s
+	1: 2.99633 s
+	2: 2.7077 s
+Used RAM: 338 MB |7407|
+Finishing:
+	SYS DoF = 15032,  0.417651 s
++8.62171 s
+Used RAM: 338 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.205582 s
++0.224399 s
+Used RAM: 338 MB |7407|
+% Saving data:
+	S parameters: 0.000215834 s
+	Fields: 0.349165 s
++0.352694 s
+++ 9.20668 s
+# END: Sat Jun  7 22:07:17 2025
+
+# START: Sat Jun  7 22:07:37 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0052185 s
+Used RAM: 5 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 2.3999 s
+Used RAM: 32 MB |7407|
+On boundaries:
+	PerfE1: 0.00214379 s
+	1: 2.97016 s
+	2: 2.69373 s
+Used RAM: 338 MB |7407|
+Finishing:
+	SYS DoF = 15032,  0.423838 s
++8.49618 s
+Used RAM: 338 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.203328 s
++0.222061 s
+Used RAM: 338 MB |7407|
+% Saving data:
+	S parameters: 0.000340458 s
++0.00408033 s
+++ 8.7321 s
+# END: Sat Jun  7 22:07:46 2025
+
+# START: Sat Jun  7 22:10:31 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00737213 s
+Used RAM: 5 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 8.02389 s
+Used RAM: 31 MB |7407|
+On boundaries:
+	PerfE1: 0.00150607 s
+	1: 3.18055 s
+	2: 2.65601 s
+Used RAM: 337 MB |7407|
+Finishing:
+	SYS DoF = 15032,  0.433073 s
++14.2993 s
+Used RAM: 337 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.204649 s
++0.222942 s
+Used RAM: 337 MB |7407|
+% Saving data:
+	S parameters: 0.000546997 s
++0.00186012 s
+++ 14.5336 s
+# END: Sat Jun  7 22:10:45 2025
+
+# START: Sat Jun  7 22:12:07 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0033346 s
+Used RAM: 5 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 8.06169 s
+Used RAM: 31 MB |7407|
+On boundaries:
+	PerfE1: 0.00148782 s
+	1: 3.32243 s
+	2: 2.73304 s
+Used RAM: 337 MB |7407|
+Finishing:
+	SYS DoF = 15032,  0.445245 s
++14.5739 s
+Used RAM: 337 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.232106 s
++0.252288 s
+Used RAM: 337 MB |7407|
+% Saving data:
+	S parameters: 0.000131374 s
++0.000420373 s
+++ 14.8342 s
+# END: Sat Jun  7 22:12:22 2025
+
+# START: Sat Jun  7 22:55:09 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.0073178 s
+Used RAM: 5 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 8.05175 s
+Used RAM: 31 MB |7407|
+On boundaries:
+	PerfE1: 0.00147152 s
+	1: 3.41889 s
+	2: 2.65979 s
+Used RAM: 337 MB |7407|
+Finishing:
+	SYS DoF = 15032,  0.440736 s
++14.5802 s
+Used RAM: 337 MB |7407|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.205454 s
++0.224136 s
+Used RAM: 337 MB |7407|
+% Saving data:
+	S parameters: 0.000258913 s
++0.000340786 s
+++ 14.8154 s
+# END: Sat Jun  7 22:55:24 2025
+
+# START: Mon Jun  9 11:24:56 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00795874 s
+Used RAM: 5 MB |3389|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 8.00417 s
+Used RAM: 31 MB |3389|
+On boundaries:
+	PerfE1: 0.00148699 s
+	1: 3.25436 s
+	2: 2.72972 s
+Used RAM: 337 MB |3389|
+Finishing:
+	SYS DoF = 15032,  0.43095 s
++14.4255 s
+Used RAM: 337 MB |3389|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.204722 s
++0.223109 s
+Used RAM: 337 MB |3389|
+% Saving data:
+	S parameters: 0.00139414 s
++0.00142051 s
+++ 14.6604 s
+# END: Mon Jun  9 11:25:11 2025
+
+# START: Mon Jun  9 12:28:37 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 3, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.005379 s
+Used RAM: 5 MB |3389|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 8.07078 s
+Used RAM: 31 MB |3389|
+On boundaries:
+	PerfE1: 0.0014842 s
+	1: 3.23148 s
+	2: 2.64713 s
+Used RAM: 337 MB |3389|
+Finishing:
+	SYS DoF = 15032,  0.433785 s
++14.3898 s
+Used RAM: 337 MB |3389|
+% Double precision Complex Solver  / Symmetric
+	Commit memory: 52 MB
+	Factor and Solve: 0.214747 s
++0.23327 s
+Used RAM: 337 MB |3389|
+% Saving data:
+	S parameters: 0.00151483 s
++0.00560371 s
+++ 14.6344 s
+# END: Mon Jun  9 12:28:51 2025
+

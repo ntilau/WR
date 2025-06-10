@@ -1,0 +1,20 @@
+# START: Sat Jun  7 20:15:12 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/RectangularWG
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: ./models/RectangularWG_Prj.txt not available ###
+# END: Sat Jun  7 20:15:12 2025
+
+# START: Sat Jun  7 20:15:16 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/RectangularWG
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+### ERROR: Cannot find ./models/RectangularWG.hfss ###
+# END: Sat Jun  7 20:15:16 2025
+

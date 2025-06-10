@@ -1,0 +1,280 @@
+# START: Fri May 30 19:48:41 2025
+Machine = NXL30400 (àÎtþ)
+Memory  = 7556 MB
+Cores   = 16% Loading files:
+Project: models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+### ERROR: models/Strip_Prj.txt not available ###
+# END: Fri May 30 19:48:41 2025
+
+# START: Fri May 30 19:48:55 2025
+Machine = NXL30400 ( ½ò¸ÿ)
+Memory  = 7556 MB
+Cores   = 16% Loading files:
+Project: models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.0581458 s
+Used RAM: 6 MB |7556|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0675395 s
+Used RAM: 7 MB |7556|
+On boundaries:
+	PerfE1: 0.000132163 s
+	Rad1: 0.000683951 s
+	1: 0.00108615 s
+	2: 0.00110579 s
+Used RAM: 7 MB |7556|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Fri May 30 19:48:55 2025
+
+# START: Fri May 30 19:49:18 2025
+Machine = NXL30400 (Ð¥ì×ü)
+Memory  = 7556 MB
+Cores   = 16% Loading files:
+Project: models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.0217359 s
+Used RAM: 6 MB |7556|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0605896 s
+Used RAM: 7 MB |7556|
+On boundaries:
+	PerfE1: 0.000606607 s
+	Rad1: 0.00231114 s
+	1: 0.00386197 s
+	2: 0.00308972 s
+Used RAM: 7 MB |7556|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Fri May 30 19:49:18 2025
+
+# START: Fri May 30 19:49:35 2025
+Machine = NXL30400 (€Ãîñþ)
+Memory  = 7556 MB
+Cores   = 16% Loading files:
+Project: models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.0228604 s
+Used RAM: 6 MB |7556|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0594557 s
+Used RAM: 7 MB |7556|
+On boundaries:
+	PerfE1: 0.000209017 s
+	Rad1: 0.000910309 s
+	1: 0.00337873 s
+	2: 0.00189928 s
+Used RAM: 7 MB |7556|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Fri May 30 19:49:35 2025
+
+# START: Sat Jun  7 20:14:51 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.00505925 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0918552 s
+Used RAM: 4 MB |3389|
+On boundaries:
+	PerfE1: 0.00016538 s
+	Rad1: 0.00141984 s
+	1: 0.00144105 s
+	2: 0.00198386 s
+Used RAM: 5 MB |3389|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Sat Jun  7 20:14:51 2025
+
+# START: Sat Jun  7 20:14:57 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.00475719 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0756515 s
+Used RAM: 4 MB |3389|
+On boundaries:
+	PerfE1: 0.00015569 s
+	Rad1: 0.000854274 s
+	1: 0.001426 s
+	2: 0.00153707 s
+Used RAM: 4 MB |3389|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Sat Jun  7 20:14:57 2025
+
+# START: Sat Jun  7 20:15:01 2025
+Machine = ubuntu (ntilau)
+Memory  = 3389 MB
+Cores   = 4% Loading files:
+Project: ./models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.00264001 s
+Used RAM: 4 MB |3389|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.0559659 s
+Used RAM: 4 MB |3389|
+On boundaries:
+	PerfE1: 0.000188689 s
+	Rad1: 0.000871533 s
+	1: 0.0014136 s
+	2: 0.00156692 s
+Used RAM: 5 MB |3389|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Sat Jun  7 20:15:01 2025
+
+# START: Sat Jun  7 21:17:48 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.0439428 s
+Used RAM: 5 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0441003 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000629919 s
+	Rad1: 0.000711007 s
+	1: 0.00124842 s
+	2: 0.00109345 s
+Used RAM: 5 MB |7407|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Sat Jun  7 21:17:48 2025
+
+# START: Sat Jun  7 21:18:01 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.00383081 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0555308 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.00439008 s
+	Rad1: 0.00199316 s
+	1: 0.00257747 s
+	2: 0.00512855 s
+Used RAM: 5 MB |7407|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Sat Jun  7 21:18:01 2025
+
+# START: Sat Jun  7 21:19:20 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing HFSS project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.0260589 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.064839 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.000695401 s
+	Rad1: 0.000852322 s
+	1: 0.00121963 s
+	2: 0.0010252 s
+Used RAM: 5 MB |7407|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Sat Jun  7 21:19:20 2025
+
+# START: Sat Jun  7 21:32:03 2025
+Machine = ubuntu (ntilau)
+Memory  = 7407 MB
+Cores   = 4% Loading files:
+Project: models/Strip
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 142
+Edges  = 794
+Faces  = 1266
+Tetras = 613
+++0.00705939 s
+Used RAM: 4 MB |7407|
+--- Frequency = 1e+10 ---
+% Assembly Symmetric:
+In solids: 0.043006 s
+Used RAM: 5 MB |7407|
+On boundaries:
+	PerfE1: 0.0030515 s
+	Rad1: 0.0027058 s
+	1: 0.00113009 s
+	2: 0.00118067 s
+Used RAM: 5 MB |7407|
+Finishing:
+### ERROR: Null Right Hand Side ###
+# END: Sat Jun  7 21:32:03 2025
+
