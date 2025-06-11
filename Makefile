@@ -11,7 +11,7 @@ PLAT = $(shell uname -s | tr '[:upper:]' '[:lower:]')-gnu
 CC=$(ARCH)-$(PLAT)-g++ -w
 CC = g++ -w
 
-BIN = fes
+BIN = wr
 SRCDIR = ./src
 
 BINDIR  = ./bin/$(ARCH)-$(PLAT)
@@ -26,14 +26,13 @@ INCDIR = \
 	 -I./dep/include/gmm \
 	 -I./dep/include/metis \
 	 -DTETLIBRARY
-LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT)
-LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq -lpord -lopenblas -larpack -lgfortran -ltet
-
+LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT) -L/usr/local/lib
+LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq -lpord -lopenblas -larpack -ltet -lgfortran -lquadmath -latomic
 ifdef OS
 	LIBS = $(LIBS) -lquadmath -lpthread
 endif
 
-CFLAGS = $(INCDIR) -std=c++17 -static
+CFLAGS = $(INCDIR) -std=c++17 
 LFLAGS = $(LIBDIR) -std=c++17 $(LIBS)
 
 SRCS=$(wildcard $(SRCDIR)/*.cpp)
