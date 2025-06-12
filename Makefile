@@ -11,32 +11,37 @@ PLAT = $(shell uname -s | tr '[:upper:]' '[:lower:]')-gnu
 CC=$(ARCH)-$(PLAT)-g++ -w
 CC = g++ -w
 
-BIN = wr
-SRCDIR = ./src
+WRBIN = wr
+WRSRX = ./src
+
+FEBIN = fes
+FESRC = ./src_old
 
 BINDIR  = ./bin/$(ARCH)-$(PLAT)
 OBJDIR  = ./obj/$(ARCH)-$(PLAT)
 
 INCDIR = \
-     -I./dep/include \
-	 -I./dep/include/tetgen \
-	 -I./dep/include/mumps/include \
-	 -I./dep/include/arma/include \
-	 -I./dep/include/metis \
-	 -I./dep/include/gmm \
-	 -I./dep/include/metis \
-	 -DTETLIBRARY
-LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT) -L/usr/local/lib
-LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq -lpord -lopenblas -larpack -ltet -lgfortran -lquadmath -latomic
+	-I./dep/include \
+	-I./dep/include/tetgen \
+	-I./dep/include/mumps/include \
+	-I./dep/include/arma/include \
+	-I./dep/include/metis \
+	-I./dep/include/gmm \
+	-I./dep/include/metis \
+	-DTETLIBRARY
+LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT) 
+INCDIR = -L/usr/local/include
+LIBDIR = -L/usr/local/lib
+LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq -lpord -lopenblas -larpack -ltet -lgfortran -lquadmath
 ifdef OS
 	LIBS = $(LIBS) -lquadmath -lpthread
 endif
 
-CFLAGS = $(INCDIR) -std=c++17 
-LFLAGS = $(LIBDIR) -std=c++17 $(LIBS)
+CFLAGS = $(INCDIR) -std=c++14 
+LFLAGS = $(LIBDIR) -std=c++14 $(LIBS)
 
-SRCS=$(wildcard $(SRCDIR)/*.cpp)
-OBJS=$(patsubst $(SRCDIR)/%.cpp, $(OBJDIR)/%.o, $(SRCS))
+FEOBJS=$(patsubst $(FESRC)/%.cpp, $(OBJDIR)/%.o, $(wildcard $(FESRC)/*.cpp))
+WROBJS=$(patsubst $(WRSRC)/%.cpp, $(OBJDIR)/%.o, $(wildcard $(WRSRC)/*.cpp))
 
 ifdef OS
   RM = del /F /S /Q
@@ -46,12 +51,19 @@ else
   FixPath = $1
 endif
 
-all: $(BINDIR) $(OBJDIR) $(OBJS) $(BIN)
+all: $(BINDIR) $(OBJDIR) $(WROBJS) $(FEOBJS) $(WRBIN) $(FEBIN)
 
-$(BIN): $(OBJS)
+$(WRBIN): $(WROBJS)
 	$(CC) -o $(BINDIR)/$@ $^ $(LFLAGS)
 
-$(OBJDIR)/%.o : $(SRCDIR)/%.cpp
+$(FEBIN): $(FEOBJS)
+	$(CC) -o $(BINDIR)/$@ $^ $(LFLAGS)
+
+
+$(OBJDIR)/%.o: $(WRSRC)/%.cpp
+	$(CC) $(CFLAGS) -c  $< -o $@
+
+$(OBJDIR)/%.o: $(FESRC)/%.cpp
 	$(CC) $(CFLAGS) -c  $< -o $@
 
 $(BINDIR):
