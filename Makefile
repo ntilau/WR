@@ -30,7 +30,7 @@ INCDIR = \
 	-I./dep/include/metis \
 	-DTETLIBRARY
 LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT) 
-INCDIR = -L/usr/local/include
+# INCDIR = -L/usr/local/include
 LIBDIR = -L/usr/local/lib
 LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq -lpord -lopenblas -larpack -ltet -lgfortran -lquadmath
 ifdef OS

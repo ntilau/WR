@@ -124,7 +124,7 @@ LIBSEQ  = $(LAPACK) -L$(topdir)/libseq -lmpiseq
 
 # DEFINE HERE YOUR BLAS LIBRARY
 
-LIBBLAS = -L./ -lopenblas
+LIBBLAS = -L/usr/local/lib -lopenblas
 
 # DEFINE HERE YOUR PTHREAD LIBRARY
 LIBOTHERS = -lpthread
