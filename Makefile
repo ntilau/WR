@@ -12,7 +12,7 @@ CC=$(ARCH)-$(PLAT)-g++ -w
 CC = g++ -w
 
 WRBIN = wr
-WRSRX = ./src
+WRSRC = ./src
 
 FEBIN = fes
 FESRC = ./src_old
@@ -29,19 +29,20 @@ INCDIR = \
 	-I./dep/include/gmm \
 	-I./dep/include/metis \
 	-DTETLIBRARY
-LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT) 
-# INCDIR = -L/usr/local/include
-LIBDIR = -L/usr/local/lib
-LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq -lpord -lopenblas -larpack -ltet -lgfortran -lquadmath
+LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT)
+INCDIR = -I./dep/include -DTETLIBRARY
+LIBDIR = #-L/usr/local/lib
+LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq_seq -lpord -larmadillo -larpack -lopenblas -llapack -ltet -lgfortran -lquadmath -lpthread
 ifdef OS
 	LIBS = $(LIBS) -lquadmath -lpthread
 endif
 
-CFLAGS = $(INCDIR) -std=c++14 
-LFLAGS = $(LIBDIR) -std=c++14 $(LIBS)
+CFLAGS = $(INCDIR) -std=c++17
+LFLAGS = $(LIBDIR) -std=c++17 $(LIBS)
 
 FEOBJS=$(patsubst $(FESRC)/%.cpp, $(OBJDIR)/%.o, $(wildcard $(FESRC)/*.cpp))
 WROBJS=$(patsubst $(WRSRC)/%.cpp, $(OBJDIR)/%.o, $(wildcard $(WRSRC)/*.cpp))
+
 
 ifdef OS
   RM = del /F /S /Q
@@ -68,7 +69,7 @@ $(OBJDIR)/%.o: $(FESRC)/%.cpp
 
 $(BINDIR):
 	if [ ! -d "$(BINDIR)" ]; then mkdir -p $(BINDIR); fi
-	
+
 $(OBJDIR):
 	if [ ! -d "$(OBJDIR)" ]; then mkdir -p $(OBJDIR); fi
 
@@ -85,4 +86,4 @@ push:
 
 .PHONY: test
 test:
-	$(BINDIR)/$(BIN) models/WR10_3 100e9 +p 3 +tfe
+	$(BINDIR)/$(FEBIN) models/WR10_3 100e9 +p 3 +tfe

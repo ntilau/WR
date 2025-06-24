@@ -5,6 +5,9 @@
 0 PerfE1 PerfectE
 1 1 WavePort 1
 2 2 WavePort 1
+#Sld_Nodes 0
+#Sld_Holes 0
+#Sld_Regions 0
 #Mesh TETRA
 #Nodes 36
 -3.324800000000000e-04 -1.000000000000000e-03 5.999999999999999e-04

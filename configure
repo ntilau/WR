@@ -8,7 +8,7 @@ elif [ "$os" == "Darwin" ]; then
   brew install gcc
 elif [ "$os" == "Linux" ]; then
   echo "Linux detected"
-  sudo apt install -y make libc6-dev gcc g++ gfortran gcc-mingw-w64-x86-64 g++-mingw-w64-x86-64 gfortran-mingw-w64-x86-64
+  sudo apt install -y make libc6-dev gcc g++ gfortran gcc-mingw-w64-x86-64 g++-mingw-w64-x86-64 gfortran-mingw-w64-x86-64 libopenblas-dev libmumps-dev libmumps-seq-dev libarpack2-dev libtet1.5-dev libsuperlu-dev libarmadillo-dev
 else
   echo "Unknown OS detected"
 fi
