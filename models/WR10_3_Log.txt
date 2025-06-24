@@ -8095,3 +8095,38 @@ Used RAM: 337 MB |3389|
 ++ 14.6344 s
 # END: Mon Jun  9 12:28:51 2025
 
+# START: Tue Jun 24 19:35:48 2025
+Machine = nourishing-warbler (ubuntu)
+Memory  = 1954 MB
+Cores   = 2% Loading files:
+Project: models/WR10_3
+Homogeneous refinement: p = 1, h = 0
+Parsing FE project files
+Nodes  = 301
+Edges  = 1475
+Faces  = 2116
+Tetras = 941
+++0.00757154 s
+Used RAM: 9 MB |1954|
+--- Frequency = 1e+11 ---
+% Assembly Symmetric:
+In solids: 0.0742104 s
+Used RAM: 10 MB |1954|
+On boundaries:
+	PerfE1: 0.000545621 s
+	1: 0.0338405 s
+	2: 0.0294075 s
+Used RAM: 19 MB |1954|
+Finishing:
+	SYS DoF = 1112,  0.0116346 s
++0.149932 s
+Used RAM: 19 MB |1954|
+% GMRES solution:
++2.30735 s
+Used RAM: 19 MB |1954|
+% Saving data:
+	S parameters: 0.00111133 s
++0.00113524 s
+++ 2.46717 s
+# END: Tue Jun 24 19:35:50 2025
+

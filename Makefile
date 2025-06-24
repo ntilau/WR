@@ -32,7 +32,7 @@ INCDIR = \
 LIBDIR = -L./dep/lib/$(ARCH)-$(PLAT)
 INCDIR = -I./dep/include -DTETLIBRARY
 LIBDIR = #-L/usr/local/lib
-LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq_seq -lpord -larmadillo -larpack -lopenblas -llapack -ltet -lgfortran -lquadmath -lpthread
+LIBS = -lsmumps -ldmumps -lcmumps -lzmumps -lmumps_common -lmpiseq_seq -lpord -larmadillo -larpack -lopenblas -llapack -ltet -lgfortran -lpthread
 ifdef OS
 	LIBS = $(LIBS) -lquadmath -lpthread
 endif
